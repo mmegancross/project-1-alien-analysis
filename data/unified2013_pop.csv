@@ -1,0 +1,1251 @@
+state,county,UFO_sightings,Unemployment_rate_2013,REGION,DIVISION,POPESTIMATE2013,STNAME,per_capita_sightings
+ak,anchorage borough/municipality,12,5.2,4,9,301142,Alaska,3.984831076369288e-05
+ak,bethel census area,1,16.2,4,9,17852,Alaska,5.601613264620211e-05
+ak,fairbanks north star borough,14,5.9,4,9,100933,Alaska,0.0001387058741937721
+ak,hoonah-angoon census area,1,14.7,4,9,2116,Alaska,0.0004725897920604915
+ak,kenai peninsula borough,1,8.0,4,9,57014,Alaska,1.753955168905883e-05
+ak,ketchikan gateway borough,1,7.8,4,9,13722,Alaska,7.287567409998542e-05
+ak,kodiak island borough,2,6.2,4,9,14093,Alaska,0.00014191442560136238
+ak,matanuska-susitna borough,10,8.4,4,9,95880,Alaska,0.00010429703796412182
+ak,southeast fairbanks census area,1,13.1,4,9,6986,Alaska,0.000143143429716576
+al,autauga county,2,6.2,3,6,54727,Alabama,3.654503261644161e-05
+al,baldwin county,11,6.6,3,6,194885,Alabama,5.644354362829361e-05
+al,barbour county,1,10.2,3,6,26937,Alabama,3.712365890782196e-05
+al,blount county,3,6.3,3,6,57619,Alabama,5.206615873236259e-05
+al,calhoun county,1,8.8,3,6,116471,Alabama,8.585828231920392e-06
+al,coosa county,2,9.2,3,6,11254,Alabama,0.00017771459036786921
+al,crenshaw county,1,7.7,3,6,13847,Alabama,7.221780891167762e-05
+al,cullman county,1,6.7,3,6,80690,Alabama,1.2393109431156277e-05
+al,escambia county,2,8.6,3,6,37765,Alabama,5.2959089103667416e-05
+al,hale county,1,11.6,3,6,15246,Alabama,6.559097468188377e-05
+al,houston county,1,6.9,3,6,103643,Alabama,9.648504964155805e-06
+al,jefferson county,7,6.7,3,6,659265,Alabama,1.0617885068978332e-05
+al,lauderdale county,1,7.1,3,6,92701,Alabama,1.0787370147031856e-05
+al,lee county,1,5.9,3,6,151809,Alabama,6.58722473634633e-06
+al,limestone county,2,6.3,3,6,88916,Alabama,2.249313959242431e-05
+al,madison county,14,6.3,3,6,346625,Alabama,4.038946988820772e-05
+al,marion county,1,7.9,3,6,30224,Alabama,3.308628904182107e-05
+al,marshall county,1,6.8,3,6,94356,Alabama,1.0598160159396329e-05
+al,mobile county,3,8.5,3,6,413918,Alabama,7.2478123686334005e-06
+al,randolph county,3,7.8,3,6,22547,Alabama,0.00013305539539628332
+al,shelby county,5,4.6,3,6,204039,Alabama,2.4505119119384038e-05
+al,st. clair county,1,6.1,3,6,85810,Alabama,1.165365342034728e-05
+al,talladega county,1,8.6,3,6,81578,Alabama,1.225820686949913e-05
+al,tuscaloosa county,2,6.4,3,6,201084,Alabama,9.946092180382328e-06
+ar,baxter county,3,8.0,3,7,40983,Arkansas,7.320108337603396e-05
+ar,benton county,1,5.6,3,7,239461,Arkansas,4.176045368556884e-06
+ar,carroll county,1,6.0,3,7,27791,Arkansas,3.598287215285524e-05
+ar,craighead county,2,6.6,3,7,101653,Arkansas,1.967477595348883e-05
+ar,crawford county,2,7.6,3,7,61667,Arkansas,3.243225712293447e-05
+ar,crittenden county,1,8.4,3,7,49739,Arkansas,2.010494782766039e-05
+ar,dallas county,1,10.5,3,7,7892,Arkansas,0.00012671059300557527
+ar,drew county,1,9.6,3,7,18686,Arkansas,5.351600128438403e-05
+ar,faulkner county,7,6.5,3,7,119176,Arkansas,5.873665838759482e-05
+ar,franklin county,1,6.9,3,7,17915,Arkansas,5.58191459670667e-05
+ar,garland county,1,7.6,3,7,97654,Arkansas,1.0240235935035943e-05
+ar,johnson county,4,7.7,3,7,25932,Arkansas,0.00015424957581366652
+ar,lafayette county,1,9.5,3,7,7284,Arkansas,0.0001372872048325096
+ar,lawrence county,2,8.9,3,7,17054,Arkansas,0.00011727453969743169
+ar,logan county,1,7.8,3,7,22031,Arkansas,4.539058599246516e-05
+ar,pulaski county,2,6.5,3,7,391512,Arkansas,5.108400253376653e-06
+ar,randolph county,1,9.5,3,7,17625,Arkansas,5.673758865248227e-05
+ar,saline county,3,5.8,3,7,113348,Arkansas,2.646716307301408e-05
+ar,searcy county,1,7.9,3,7,7991,Arkansas,0.00012514078338130396
+ar,sebastian county,2,7.5,3,7,127173,Arkansas,1.5726608635480802e-05
+ar,washington county,8,5.4,3,7,216000,Arkansas,3.7037037037037037e-05
+ar,yell county,1,6.5,3,7,21819,Arkansas,4.583161464778404e-05
+az,apache county,1,18.4,4,8,72322,Arizona,1.3827051243051907e-05
+az,cochise county,1,9.2,4,8,129578,Arizona,7.717359428298013e-06
+az,coconino county,8,8.1,4,8,136699,Arizona,5.852273974206102e-05
+az,gila county,1,9.6,4,8,53005,Arizona,1.8866144703329873e-05
+az,graham county,3,7.7,4,8,37433,Arizona,8.014318916464083e-05
+az,la paz county,1,8.2,4,8,20522,Arizona,4.8728194133125426e-05
+az,maricopa county,111,6.6,4,8,4017723,Arizona,2.762758905977341e-05
+az,mohave county,9,10.3,4,8,203126,Arizona,4.430747417858866e-05
+az,navajo county,2,13.5,4,8,107135,Arizona,1.8668035655948102e-05
+az,pima county,21,6.8,4,8,997127,Arizona,2.106050683614023e-05
+az,pinal county,17,8.1,4,8,385398,Arizona,4.41102444745432e-05
+az,santa cruz county,4,15.4,4,8,46939,Arizona,8.521698374486034e-05
+az,yavapai county,12,7.7,4,8,214421,Arizona,5.596466763983005e-05
+az,yuma county,3,25.5,4,8,202420,Arizona,1.482066989427922e-05
+ca,alameda county,18,7.2,4,9,1579593,California,1.139534044529192e-05
+ca,butte county,3,10.3,4,9,221641,California,1.3535401843521732e-05
+ca,contra costa county,21,7.5,4,9,1093401,California,1.920612840119956e-05
+ca,el dorado county,6,8.5,4,9,181481,California,3.306131220348136e-05
+ca,fresno county,18,13.3,4,9,951514,California,1.8917220345680672e-05
+ca,humboldt county,3,8.1,4,9,134403,California,2.232093033637642e-05
+ca,imperial county,3,25.0,4,9,176438,California,1.700313991317063e-05
+ca,kern county,12,11.7,4,9,862000,California,1.3921113689095128e-05
+ca,kings county,2,13.4,4,9,150337,California,1.3303444927063863e-05
+ca,lake county,4,10.9,4,9,63796,California,6.269985579033168e-05
+ca,lassen county,2,10.6,4,9,32129,California,6.224905848299044e-05
+ca,los angeles county,118,9.8,4,9,9992484,California,1.180887555086403e-05
+ca,marin county,8,5.2,4,9,258409,California,3.0958674039990866e-05
+ca,mendocino county,3,8.4,4,9,87054,California,3.446136880556896e-05
+ca,merced county,8,14.5,4,9,262026,California,3.0531321319258394e-05
+ca,modoc county,2,12.3,4,9,9145,California,0.00021869874248223073
+ca,monterey county,7,10.3,4,9,426712,California,1.6404507021129004e-05
+ca,napa county,8,6.9,4,9,139580,California,5.731480154749964e-05
+ca,nevada county,1,8.1,4,9,97938,California,1.021054136290306e-05
+ca,orange county,48,6.6,4,9,3104950,California,1.5459186138263097e-05
+ca,placer county,11,7.7,4,9,365398,California,3.0104160394966584e-05
+ca,riverside county,38,9.9,4,9,2286755,California,1.6617433874638952e-05
+ca,sacramento county,46,8.9,4,9,1457341,California,3.156433532028537e-05
+ca,san benito county,3,11.1,4,9,57239,California,5.241181711769947e-05
+ca,san bernardino county,17,9.8,4,9,2082738,California,8.162332468126091e-06
+ca,san diego county,62,7.8,4,9,3209768,California,1.9316037794631885e-05
+ca,san francisco county/city,13,5.5,4,9,839572,California,1.5484079983610697e-05
+ca,san joaquin county,9,12.3,4,9,702046,California,1.2819672784974205e-05
+ca,san luis obispo county,5,6.8,4,9,275696,California,1.8135917822529162e-05
+ca,san mateo county,7,5.3,4,9,748661,California,9.350026246859394e-06
+ca,santa barbara county,11,7.2,4,9,434601,California,2.5310572226018807e-05
+ca,santa clara county,25,6.5,4,9,1866425,California,1.3394591264047577e-05
+ca,santa cruz county,11,10.3,4,9,268816,California,4.0920183322421284e-05
+ca,shasta county,5,11.8,4,9,178397,California,2.80273771419923e-05
+ca,siskiyou county,1,13.1,4,9,43532,California,2.297160709363227e-05
+ca,solano county,6,9.1,4,9,423659,California,1.4162333386048685e-05
+ca,sonoma county,14,7.1,4,9,494073,California,2.8335893683726898e-05
+ca,stanislaus county,12,12.9,4,9,523451,California,2.2924781880252403e-05
+ca,sutter county,2,14.6,4,9,94507,California,2.116245357486747e-05
+ca,trinity county,2,11.9,4,9,13427,California,0.00014895360095330305
+ca,tulare county,4,14.4,4,9,452460,California,8.840560491535163e-06
+ca,ventura county,14,7.9,4,9,838136,California,1.6703733045710957e-05
+ca,yolo county,3,9.0,4,9,206292,California,1.4542493165028213e-05
+ca,yuba county,1,13.2,4,9,73090,California,1.3681762210972774e-05
+co,adams county,13,8.1,4,8,469978,Colorado,2.7660869232176827e-05
+co,alamosa county,1,9.7,4,8,15787,Colorado,6.334325711028061e-05
+co,arapahoe county,8,6.6,4,8,608467,Colorado,1.314779601851867e-05
+co,boulder county,19,5.5,4,8,309323,Colorado,6.142446568797017e-05
+co,broomfield county/city,1,5.8,4,8,60149,Colorado,1.662538030557449e-05
+co,chaffee county,1,6.2,4,8,18355,Colorado,5.4481067828929447e-05
+co,denver county/city,18,6.6,4,8,649391,Colorado,2.771827758623079e-05
+co,douglas county,7,5.3,4,8,306234,Colorado,2.2858337088631568e-05
+co,el paso county,14,7.9,4,8,655209,Colorado,2.136722786164415e-05
+co,fremont county,1,10.7,4,8,46332,Colorado,2.158335491668825e-05
+co,garfield county,1,7.5,4,8,56938,Colorado,1.756296322315501e-05
+co,grand county,1,5.8,4,8,14312,Colorado,6.987143655673561e-05
+co,gunnison county,1,5.5,4,8,15575,Colorado,6.420545746388443e-05
+co,jefferson county,9,6.3,4,8,552031,Colorado,1.6303432234783917e-05
+co,larimer county,5,5.8,4,8,316225,Colorado,1.581152660289351e-05
+co,lincoln county,2,5.8,4,8,5435,Colorado,0.0003679852805887764
+co,logan county,1,5.1,4,8,22174,Colorado,4.509786236132407e-05
+co,mesa county,5,8.7,4,8,147175,Colorado,3.3973161202649904e-05
+co,montrose county,2,9.4,4,8,40549,Colorado,4.932304125872401e-05
+co,park county,1,6.1,4,8,16184,Colorado,6.178942165101334e-05
+co,pitkin county,1,6.5,4,8,17460,Colorado,5.72737686139748e-05
+co,pueblo county,3,9.8,4,8,161033,Colorado,1.8629721858252657e-05
+co,rio blanco county,1,7.8,4,8,6693,Colorado,0.00014940983116689077
+co,routt county,2,5.9,4,8,23599,Colorado,8.474935378617738e-05
+co,san miguel county,1,6.7,4,8,7621,Colorado,0.0001312163758037003
+co,summit county,1,5.0,4,8,28728,Colorado,3.480924533556112e-05
+co,teller county,1,7.8,4,8,23356,Colorado,4.2815550607980816e-05
+co,weld county,4,6.6,4,8,270165,Colorado,1.480576684618659e-05
+ct,fairfield county,20,7.3,1,1,939924,Connecticut,2.1278316119175594e-05
+ct,hartford county,26,8.0,1,1,897678,Connecticut,2.896361501562921e-05
+ct,litchfield county,11,7.1,1,1,186836,Connecticut,5.887516324477082e-05
+ct,middlesex county,7,6.7,1,1,165329,Connecticut,4.2339819390427575e-05
+ct,new haven county,37,8.5,1,1,862820,Connecticut,4.2882640643471405e-05
+ct,new london county,3,8.1,1,1,272976,Connecticut,1.0989977140847547e-05
+ct,tolland county,4,6.9,1,1,151778,Connecticut,2.6354280594025485e-05
+ct,windham county,4,8.8,1,1,117500,Connecticut,3.4042553191489365e-05
+de,kent county,2,7.3,3,5,169038,Delaware,1.1831659153563104e-05
+de,new castle county,5,6.5,3,5,548331,Delaware,9.118579835902037e-06
+de,sussex county,5,6.8,3,5,206207,Delaware,2.4247479474508623e-05
+fl,alachua county,5,5.7,3,5,252475,Florida,1.9803940984255867e-05
+fl,bay county,4,7.3,3,5,174596,Florida,2.2910032303145547e-05
+fl,brevard county,10,8.3,3,5,550255,Florida,1.817339233628045e-05
+fl,broward county,31,6.8,3,5,1836600,Florida,1.6879015572253077e-05
+fl,charlotte county,11,8.0,3,5,164671,Florida,6.679986154210516e-05
+fl,citrus county,5,9.7,3,5,138829,Florida,3.6015529896491364e-05
+fl,clay county,3,6.3,3,5,195657,Florida,1.533295512044036e-05
+fl,collier county,9,7.1,3,5,338987,Florida,2.654969069610339e-05
+fl,desoto county,1,8.2,3,5,34905,Florida,2.8649190660363846e-05
+fl,duval county,16,7.5,3,5,885943,Florida,1.8059852609027895e-05
+fl,escambia county,5,7.2,3,5,306694,Florida,1.630289474199039e-05
+fl,flagler county,3,8.4,3,5,99798,Florida,3.006072265977274e-05
+fl,gadsden county,1,9.2,3,5,46087,Florida,2.1698092737648362e-05
+fl,hardee county,1,8.2,3,5,27311,Florida,3.66152832192157e-05
+fl,hernando county,3,9.0,3,5,173639,Florida,1.7277224586642402e-05
+fl,highlands county,2,9.5,3,5,98077,Florida,2.0392140868909122e-05
+fl,hillsborough county,23,6.6,3,5,1304131,Florida,1.7636265068463213e-05
+fl,indian river county,5,9.6,3,5,141895,Florida,3.5237323372916594e-05
+fl,lake county,8,7.4,3,5,307973,Florida,2.5976303117481077e-05
+fl,lee county,40,7.3,3,5,659834,Florida,6.0621307783472816e-05
+fl,leon county,1,6.1,3,5,281887,Florida,3.5475208150783825e-06
+fl,liberty county,1,6.7,3,5,8357,Florida,0.00011966016513102789
+fl,marion county,3,8.5,3,5,335083,Florida,8.953005673221262e-06
+fl,martin county,4,7.2,3,5,151126,Florida,2.6467980360758573e-05
+fl,miami-dade county,27,7.4,3,5,2609692,Florida,1.0346048499209869e-05
+fl,monroe county,3,4.8,3,5,75813,Florida,3.9571049819951724e-05
+fl,okaloosa county,2,5.7,3,5,192688,Florida,1.0379473553101387e-05
+fl,okeechobee county,3,8.7,3,5,39482,Florida,7.59839927055367e-05
+fl,orange county,38,6.8,3,5,1227435,Florida,3.095886951243854e-05
+fl,osceola county,3,7.9,3,5,299238,Florida,1.002546468028793e-05
+fl,palm beach county,56,7.1,3,5,1376462,Florida,4.068401452419319e-05
+fl,pasco county,14,7.7,3,5,474352,Florida,2.951394744830843e-05
+fl,pinellas county,34,6.6,3,5,928414,Florida,3.6621593383986025e-05
+fl,polk county,13,8.2,3,5,622633,Florida,2.0879073226121968e-05
+fl,putnam county,1,10.4,3,5,72370,Florida,1.381788033715628e-05
+fl,santa rosa county,2,6.4,3,5,160392,Florida,1.2469449847872711e-05
+fl,sarasota county,18,7.0,3,5,389941,Florida,4.616082945881556e-05
+fl,seminole county,13,6.7,3,5,435503,Florida,2.9850540639214885e-05
+fl,st. johns county,5,5.4,3,5,209439,Florida,2.3873299624234264e-05
+fl,st. lucie county,6,10.0,3,5,285299,Florida,2.103056793048696e-05
+fl,sumter county,2,9.3,3,5,106898,Florida,1.8709423936836983e-05
+fl,taylor county,1,7.8,3,5,22873,Florida,4.371966947929874e-05
+fl,volusia county,9,8.2,3,5,500438,Florida,1.7984245800678604e-05
+ga,bartow county,3,8.7,3,5,100917,Georgia,2.972739974434436e-05
+ga,burke county,1,12.0,3,5,22824,Georgia,4.3813529617946025e-05
+ga,carroll county,1,9.6,3,5,112265,Georgia,8.907495657595867e-06
+ga,chatham county,2,8.3,3,5,277650,Georgia,7.203313524221141e-06
+ga,cherokee county,7,6.1,3,5,224314,Georgia,3.120625551682017e-05
+ga,clarke county,4,7.8,3,5,120888,Georgia,3.3088478591754354e-05
+ga,clayton county,1,10.8,3,5,264015,Georgia,3.787663579720849e-06
+ga,cobb county,9,6.7,3,5,716017,Georgia,1.2569533963579078e-05
+ga,colquitt county,3,8.8,3,5,46126,Georgia,6.50392403416728e-05
+ga,columbia county,7,6.5,3,5,136141,Georgia,5.141728061348161e-05
+ga,cook county,1,8.5,3,5,17051,Georgia,5.864758665180928e-05
+ga,coweta county,1,7.0,3,5,132944,Georgia,7.521964135275003e-06
+ga,crisp county,1,11.2,3,5,23298,Georgia,4.292213923941969e-05
+ga,dawson county,1,7.4,3,5,22732,Georgia,4.399084990322013e-05
+ga,dekalb county,1,8.4,3,5,717740,Georgia,1.3932621840777997e-06
+ga,douglas county,1,8.6,3,5,136024,Georgia,7.351643827559842e-06
+ga,fayette county,4,6.7,3,5,108054,Georgia,3.701852777315046e-05
+ga,floyd county,2,9.5,3,5,95880,Georgia,2.0859407592824365e-05
+ga,forsyth county,10,5.9,3,5,193801,Georgia,5.159932095293626e-05
+ga,fulton county,10,8.1,3,5,981472,Georgia,1.0188777672720158e-05
+ga,greene county,1,9.9,3,5,16243,Georgia,6.156498183833036e-05
+ga,gwinnett county,10,6.9,3,5,853459,Georgia,1.1717024485066066e-05
+ga,hall county,4,6.8,3,5,186431,Georgia,2.1455659198309295e-05
+ga,hart county,1,9.2,3,5,25456,Georgia,3.9283469516027656e-05
+ga,heard county,1,9.4,3,5,11564,Georgia,8.647526807333103e-05
+ga,henry county,1,8.4,3,5,210012,Georgia,4.761632668609413e-06
+ga,houston county,3,7.5,3,5,147527,Georgia,2.0335260664149612e-05
+ga,lee county,1,6.9,3,5,29039,Georgia,3.443644753607218e-05
+ga,liberty county,1,8.5,3,5,62341,Georgia,1.6040807815081567e-05
+ga,lowndes county,3,8.0,3,5,112883,Georgia,2.6576189505948637e-05
+ga,mcduffie county,1,11.3,3,5,21499,Georgia,4.6513791339132053e-05
+ga,meriwether county,1,10.8,3,5,21217,Georgia,4.713201677899797e-05
+ga,muscogee county,2,9.3,3,5,203225,Georgia,9.841308894082912e-06
+ga,newton county,3,9.7,3,5,102040,Georgia,2.9400235201881615e-05
+ga,paulding county,3,7.2,3,5,146753,Georgia,2.0442512248471923e-05
+ga,polk county,1,8.9,3,5,40977,Georgia,2.440393391414696e-05
+ga,rabun county,1,9.9,3,5,16184,Georgia,6.178942165101334e-05
+ga,richmond county,3,9.8,3,5,201335,Georgia,1.4900538902823653e-05
+ga,sumter county,1,11.3,3,5,31335,Georgia,3.191319610659008e-05
+ga,tift county,1,8.5,3,5,40180,Georgia,2.4888003982080636e-05
+ga,towns county,1,10.6,3,5,10787,Georgia,9.270418095856123e-05
+ga,troup county,1,8.6,3,5,68801,Georgia,1.4534672461156089e-05
+ga,walker county,2,8.1,3,5,68594,Georgia,2.915706913141091e-05
+ga,walton county,5,7.8,3,5,86041,Georgia,5.811183040643414e-05
+hi,hawaii county,4,6.6,4,9,191459,Hawaii,2.089220146349871e-05
+hi,honolulu county/city,12,4.5,4,9,986059,Hawaii,1.2169657190898313e-05
+hi,kauai county,5,5.6,4,9,69632,Hawaii,7.180606617647059e-05
+hi,maui county,16,5.1,4,9,161004,Hawaii,9.937641300837246e-05
+ia,adair county,1,4.2,2,4,7387,Iowa,0.0001353729524840937
+ia,black hawk county,5,5.1,2,4,132933,Iowa,3.761293283082455e-05
+ia,butler county,1,4.5,2,4,14975,Iowa,6.67779632721202e-05
+ia,calhoun county,1,5.2,2,4,9898,Iowa,0.00010103051121438674
+ia,carroll county,1,3.4,2,4,20541,Iowa,4.868312156175454e-05
+ia,cerro gordo county,1,5.4,2,4,43528,Iowa,2.2973718066531886e-05
+ia,clinton county,2,5.8,2,4,48281,Iowa,4.142416271411114e-05
+ia,dallas county,1,3.6,2,4,74949,Iowa,1.3342406169528612e-05
+ia,dubuque county,2,4.5,2,4,95945,Iowa,2.0845275939340247e-05
+ia,fayette county,1,5.3,2,4,20519,Iowa,4.8735318485306304e-05
+ia,grundy county,1,4.4,2,4,12341,Iowa,8.103071063933231e-05
+ia,hamilton county,1,5.4,2,4,15343,Iowa,6.517630189663039e-05
+ia,harrison county,1,4.5,2,4,14357,Iowa,6.965243435258063e-05
+ia,howard county,2,4.6,2,4,9439,Iowa,0.00021188685242080728
+ia,humboldt county,1,4.1,2,4,9677,Iowa,0.00010333781130515655
+ia,keokuk county,1,5.1,2,4,10337,Iowa,9.673986649898423e-05
+ia,linn county,10,5.0,2,4,216488,Iowa,4.6191936735523444e-05
+ia,marion county,1,4.5,2,4,33014,Iowa,3.0290179923668747e-05
+ia,montgomery county,1,4.9,2,4,10404,Iowa,9.611687812379854e-05
+ia,o'brien county,1,3.6,2,4,14045,Iowa,7.119971520113919e-05
+ia,osceola county,1,3.8,2,4,6236,Iowa,0.00016035920461834508
+ia,polk county,12,4.8,2,4,452657,Iowa,2.6510139023587396e-05
+ia,pottawattamie county,4,4.6,2,4,92855,Iowa,4.307791718270422e-05
+ia,scott county,6,5.6,2,4,170201,Iowa,3.525243682469551e-05
+ia,shelby county,1,3.8,2,4,11899,Iowa,8.404067568703252e-05
+ia,story county,2,3.3,2,4,93877,Iowa,2.1304472874079915e-05
+ia,union county,1,4.9,2,4,12616,Iowa,7.926442612555485e-05
+ia,washington county,2,3.8,2,4,21944,Iowa,9.11410864017499e-05
+ia,webster county,4,5.3,2,4,37327,Iowa,0.00010716103624722052
+ia,winneshiek county,1,4.6,2,4,20840,Iowa,4.798464491362764e-05
+ia,woodbury county,1,4.8,2,4,102284,Iowa,9.776700168159243e-06
+id,ada county,27,5.2,4,8,415951,Idaho,6.491149197862248e-05
+id,benewah county,2,10.1,4,8,9030,Idaho,0.00022148394241417498
+id,blaine county,1,5.7,4,8,21325,Idaho,4.6893317702227434e-05
+id,bonner county,3,8.8,4,8,40525,Idaho,7.402837754472548e-05
+id,bonneville county,4,5.4,4,8,107369,Idaho,3.7254701077592226e-05
+id,canyon county,8,7.5,4,8,198590,Idaho,4.028400221562012e-05
+id,custer county,1,8.4,4,8,4225,Idaho,0.00023668639053254438
+id,elmore county,1,6.7,4,8,26267,Idaho,3.8070582860623596e-05
+id,gem county,1,7.8,4,8,16569,Idaho,6.03536725209729e-05
+id,idaho county,1,9.9,4,8,16249,Idaho,6.154224875376947e-05
+id,jefferson county,1,5.1,4,8,26804,Idaho,3.7307864497836144e-05
+id,kootenai county,17,7.3,4,8,143897,Idaho,0.00011814005851407603
+id,latah county,1,4.9,4,8,38220,Idaho,2.6164311878597592e-05
+id,lewis county,1,5.0,4,8,3805,Idaho,0.00026281208935611036
+id,lincoln county,1,7.6,4,8,5329,Idaho,0.00018765246762994934
+id,madison county,3,4.1,4,8,37527,Idaho,7.994244144216165e-05
+id,minidoka county,1,5.5,4,8,20400,Idaho,4.901960784313725e-05
+id,nez perce county,1,5.0,4,8,39798,Idaho,2.512689079853259e-05
+id,payette county,2,6.5,4,8,22550,Idaho,8.869179600886918e-05
+id,twin falls county,4,5.7,4,8,79894,Idaho,5.006633789771447e-05
+id,valley county,1,10.2,4,8,9575,Idaho,0.00010443864229765013
+id,washington county,1,7.4,4,8,9916,Idaho,0.0001008471157724889
+il,cook county,42,9.6,2,3,5252875,Illinois,7.995621445398947e-06
+il,dekalb county,2,8.2,2,3,104202,Illinois,1.9193489568338418e-05
+il,dupage county,10,7.4,2,3,932231,Illinois,1.0726955014368756e-05
+il,fayette county,1,9.2,2,3,22195,Illinois,4.505519261094841e-05
+il,franklin county,1,11.9,2,3,39555,Illinois,2.528125395019593e-05
+il,grundy county,1,11.6,2,3,50187,Illinois,1.9925478709626e-05
+il,jackson county,1,7.9,2,3,59760,Illinois,1.673360107095047e-05
+il,jasper county,1,7.9,2,3,9607,Illinois,0.00010409076714895389
+il,kane county,11,8.7,2,3,522626,Illinois,2.104755599606602e-05
+il,kankakee county,3,10.5,2,3,112735,Illinois,2.6611079079256665e-05
+il,kendall county,2,8.4,2,3,119566,Illinois,1.6727163240386063e-05
+il,lake county,20,7.9,2,3,704207,Illinois,2.8400740123287614e-05
+il,lasalle county,1,10.3,2,3,112430,Illinois,8.894423196655697e-06
+il,madison county,6,8.9,2,3,267268,Illinois,2.244937665564153e-05
+il,mchenry county,5,8.6,2,3,307605,Illinois,1.6254612246224866e-05
+il,mclean county,7,6.6,2,3,175037,Illinois,3.999154464484652e-05
+il,menard county,1,7.2,2,3,12572,Illinois,7.954183900731785e-05
+il,moultrie county,1,7.2,2,3,14796,Illinois,6.758583400919168e-05
+il,peoria county,1,9.6,2,3,188643,Illinois,5.301018325620352e-06
+il,saline county,1,10.6,2,3,24803,Illinois,4.0317703503608436e-05
+il,sangamon county,8,7.5,2,3,199141,Illinois,4.017254106386932e-05
+il,st. clair county,4,9.8,2,3,266831,Illinois,1.4990761942952656e-05
+il,stephenson county,1,9.4,2,3,46671,Illinois,2.142658181740267e-05
+il,tazewell county,1,8.7,2,3,136266,Illinois,7.338587762171048e-06
+il,vermilion county,2,10.6,2,3,80585,Illinois,2.481851461190048e-05
+il,washington county,1,6.2,2,3,14414,Illinois,6.937699458859442e-05
+il,whiteside county,1,8.7,2,3,57468,Illinois,1.7400988376139765e-05
+il,will county,12,9.8,2,3,683734,Illinois,1.7550684915478828e-05
+il,winnebago county,5,10.5,2,3,290945,Illinois,1.718537867981921e-05
+in,allen county,11,7.5,2,3,363355,Indiana,3.027342406186787e-05
+in,boone county,4,5.7,2,3,60346,Indiana,6.628442647399993e-05
+in,clark county,4,6.9,2,3,112688,Indiana,3.5496237398835724e-05
+in,clay county,1,8.9,2,3,26662,Indiana,3.7506563648638515e-05
+in,delaware county,2,8.6,2,3,116831,Indiana,1.7118744168927768e-05
+in,elkhart county,6,7.2,2,3,200205,Indiana,2.996928148647636e-05
+in,fayette county,1,10.3,2,3,23826,Indiana,4.1970956098379924e-05
+in,floyd county,1,6.3,2,3,76018,Indiana,1.3154779131258386e-05
+in,fulton county,1,8.3,2,3,20449,Indiana,4.8902146804244705e-05
+in,gibson county,1,5.9,2,3,33484,Indiana,2.9865010154103452e-05
+in,grant county,4,9.0,2,3,68845,Indiana,5.8101532427917786e-05
+in,hamilton county,6,5.0,2,3,296858,Indiana,2.021168370062454e-05
+in,hancock county,4,6.6,2,3,70980,Indiana,5.6353902507748664e-05
+in,harrison county,2,7.0,2,3,39000,Indiana,5.128205128205128e-05
+in,hendricks county,1,5.8,2,3,153555,Indiana,6.512324574256781e-06
+in,huntington county,1,7.7,2,3,36777,Indiana,2.7190907360578622e-05
+in,jay county,1,7.7,2,3,21270,Indiana,4.701457451810061e-05
+in,johnson county,5,6.2,2,3,145410,Indiana,3.4385530568736674e-05
+in,knox county,2,6.7,2,3,38055,Indiana,5.2555511759295755e-05
+in,kosciusko county,1,6.6,2,3,77865,Indiana,1.2842740640852759e-05
+in,lake county,5,9.1,2,3,491732,Indiana,1.0168140369144168e-05
+in,laporte county,1,9.3,2,3,111423,Indiana,8.974807714744712e-06
+in,lawrence county,1,10.1,2,3,45896,Indiana,2.1788391145197837e-05
+in,marion county,23,8.5,2,3,929922,Indiana,2.4733257197915525e-05
+in,miami county,2,8.7,2,3,36167,Indiana,5.529902950203224e-05
+in,morgan county,2,7.6,2,3,69344,Indiana,2.8841716658975542e-05
+in,noble county,1,7.3,2,3,47240,Indiana,2.1168501270110077e-05
+in,owen county,1,10.1,2,3,21153,Indiana,4.7274618257457574e-05
+in,porter county,2,7.2,2,3,166478,Indiana,1.2013599394514591e-05
+in,st. joseph county,5,8.7,2,3,267054,Indiana,1.872280512555513e-05
+in,starke county,1,9.5,2,3,23139,Indiana,4.321707938977484e-05
+in,sullivan county,1,9.1,2,3,21138,Indiana,4.73081653893462e-05
+in,tippecanoe county,6,6.6,2,3,181953,Indiana,3.2975548630690345e-05
+in,vanderburgh county,3,7.1,2,3,181580,Indiana,1.652164335279216e-05
+in,vermillion county,1,10.7,2,3,15852,Indiana,6.308352258390108e-05
+in,warrick county,1,6.3,2,3,60852,Indiana,1.6433313613356997e-05
+in,wayne county,1,8.7,2,3,67785,Indiana,1.4752526370140887e-05
+in,white county,2,6.9,2,3,24401,Indiana,8.196385394041228e-05
+in,whitley county,1,7.0,2,3,33283,Indiana,3.004536850644473e-05
+ks,brown county,1,5.0,2,4,9912,Kansas,0.00010088781275221953
+ks,butler county,1,5.5,2,4,65671,Kansas,1.5227421540710512e-05
+ks,crawford county,1,5.9,2,4,39250,Kansas,2.5477707006369428e-05
+ks,douglas county,2,4.8,2,4,114713,Kansas,1.743481558323817e-05
+ks,ford county,1,4.0,2,4,34879,Kansas,2.867054674732647e-05
+ks,gove county,1,3.3,2,4,2794,Kansas,0.00035790980672870435
+ks,harper county,1,4.0,2,4,5842,Kansas,0.00017117425539198904
+ks,jefferson county,1,5.7,2,4,18773,Kansas,5.326799126404943e-05
+ks,johnson county,11,4.3,2,4,566351,Kansas,1.9422584227802192e-05
+ks,labette county,1,7.2,2,4,20871,Kansas,4.791337262229888e-05
+ks,leavenworth county,2,6.0,2,4,78082,Kansas,2.5614097999538947e-05
+ks,lincoln county,1,4.6,2,4,3161,Kansas,0.00031635558367605187
+ks,mcpherson county,1,3.9,2,4,29415,Kansas,3.399626041135475e-05
+ks,miami county,1,5.6,2,4,32834,Kansas,3.0456234391179874e-05
+ks,montgomery county,1,6.8,2,4,34444,Kansas,2.9032632679131344e-05
+ks,osage county,1,6.7,2,4,16080,Kansas,6.218905472636816e-05
+ks,ottawa county,1,4.5,2,4,6044,Kansas,0.00016545334215751158
+ks,pratt county,1,4.0,2,4,9778,Kansas,0.00010227040294538761
+ks,reno county,1,5.2,2,4,64079,Kansas,1.560573666879945e-05
+ks,rice county,1,4.3,2,4,9978,Kansas,0.00010022048506714773
+ks,riley county,1,4.2,2,4,76923,Kansas,1.3000013000013e-05
+ks,saline county,1,5.0,2,4,55750,Kansas,1.7937219730941705e-05
+ks,sedgwick county,13,6.1,2,4,506442,Kansas,2.5669277034685117e-05
+ks,wyandotte county,1,7.9,2,4,160933,Kansas,6.213765977145769e-06
+ky,bath county,1,10.3,3,6,11975,Kentucky,8.350730688935282e-05
+ky,bell county,1,13.3,3,6,28031,Kentucky,3.567478862687739e-05
+ky,boone county,6,6.6,3,6,125022,Kentucky,4.799155348658636e-05
+ky,bourbon county,1,7.0,3,6,20026,Kentucky,4.993508439029262e-05
+ky,calloway county,3,7.3,3,6,38425,Kentucky,7.807417046193885e-05
+ky,carter county,1,12.7,3,6,27600,Kentucky,3.6231884057971014e-05
+ky,clay county,1,14.3,3,6,21186,Kentucky,4.7200981780421035e-05
+ky,daviess county,3,6.9,3,6,98294,Kentucky,3.052068284941095e-05
+ky,fayette county,6,5.8,3,6,309865,Kentucky,1.9363271101931486e-05
+ky,franklin county,2,6.6,3,6,49478,Kentucky,4.042200573992481e-05
+ky,gallatin county,1,9.3,3,6,8578,Kentucky,0.00011657729074376311
+ky,graves county,1,8.5,3,6,37406,Kentucky,2.6733679088916217e-05
+ky,grayson county,1,10.3,3,6,25948,Kentucky,3.853861569292431e-05
+ky,hardin county,1,7.7,3,6,108969,Kentucky,9.176921876864063e-06
+ky,harlan county,1,18.1,3,6,28489,Kentucky,3.510126715574432e-05
+ky,jefferson county,12,7.5,3,6,759183,Kentucky,1.5806465634767903e-05
+ky,jessamine county,1,6.5,3,6,50120,Kentucky,1.995211492418196e-05
+ky,johnson county,1,11.0,3,6,23458,Kentucky,4.2629380168812346e-05
+ky,kenton county,6,7.0,3,6,163131,Kentucky,3.678025635838682e-05
+ky,laurel county,1,9.7,3,6,59701,Kentucky,1.6750138188640056e-05
+ky,lincoln county,1,10.7,3,6,24438,Kentucky,4.091987887715852e-05
+ky,logan county,1,7.1,3,6,26976,Kentucky,3.70699881376038e-05
+ky,lyon county,1,8.2,3,6,8452,Kentucky,0.0001183151916706105
+ky,madison county,3,6.6,3,6,85934,Kentucky,3.491051271906347e-05
+ky,magoffin county,1,17.6,3,6,12941,Kentucky,7.727378100610463e-05
+ky,marshall county,1,8.1,3,6,31215,Kentucky,3.20358801858081e-05
+ky,mccracken county,1,7.9,3,6,65337,Kentucky,1.530526348011081e-05
+ky,morgan county,1,10.6,3,6,13362,Kentucky,7.4839095943721e-05
+ky,oldham county,1,5.7,3,6,63062,Kentucky,1.5857410167771398e-05
+ky,pike county,2,11.9,3,6,63853,Kentucky,3.1321942586879236e-05
+ky,powell county,1,10.8,3,6,12470,Kentucky,8.019246190858059e-05
+ky,scott county,1,6.1,3,6,50000,Kentucky,2e-05
+ky,shelby county,3,6.1,3,6,44460,Kentucky,6.747638326585695e-05
+ky,trigg county,1,9.0,3,6,14300,Kentucky,6.993006993006993e-05
+ky,warren county,5,6.9,3,6,119575,Kentucky,4.18147606104955e-05
+ky,webster county,1,7.1,3,6,13357,Kentucky,7.48671108781912e-05
+ky,whitley county,1,10.6,3,6,35870,Kentucky,2.7878449958182326e-05
+ky,woodford county,2,5.3,3,6,25345,Kentucky,7.891102781613731e-05
+la,ascension parish,1,5.6,3,7,114636,Louisiana,8.723263198297218e-06
+la,avoyelles parish,2,7.5,3,7,41275,Louisiana,4.845548152634767e-05
+la,bossier parish,3,6.0,3,7,124021,Louisiana,2.4189451786391015e-05
+la,calcasieu parish,1,6.5,3,7,195492,Louisiana,5.115298835757985e-06
+la,caldwell parish,1,8.2,3,7,9984,Louisiana,0.00010016025641025641
+la,east baton rouge parish,2,6.2,3,7,444181,Louisiana,4.502668957024276e-06
+la,jefferson parish,4,6.3,3,7,434264,Louisiana,9.21098686513273e-06
+la,lafayette parish,3,4.9,3,7,231471,Louisiana,1.2960586855372811e-05
+la,lafourche parish,4,4.9,3,7,97276,Louisiana,4.112011184670422e-05
+la,lincoln parish,1,7.8,3,7,47233,Louisiana,2.1171638473101433e-05
+la,livingston parish,1,5.8,3,7,133668,Louisiana,7.481222132447557e-06
+la,orleans parish,5,7.3,3,7,378637,Louisiana,1.3205259919130989e-05
+la,plaquemines parish,1,5.7,3,7,23509,Louisiana,4.253690076141052e-05
+la,rapides parish,1,6.9,3,7,132322,Louisiana,7.5573222895663604e-06
+la,sabine parish,1,6.8,3,7,24261,Louisiana,4.121841638844236e-05
+la,st. tammany parish,7,5.7,3,7,241953,Louisiana,2.893123871165061e-05
+la,tangipahoa parish,2,8.0,3,7,125520,Louisiana,1.5933715742511152e-05
+la,terrebonne parish,2,5.0,3,7,112707,Louisiana,1.7745126744567773e-05
+la,union parish,2,7.8,3,7,22454,Louisiana,8.907098957869422e-05
+la,vermilion parish,1,5.6,3,7,59284,Louisiana,1.686795762769044e-05
+la,west carroll parish,1,12.7,3,7,11453,Louisiana,8.731336767659129e-05
+ma,barnstable county,18,8.4,1,1,214518,Massachusetts,8.390904259782396e-05
+ma,berkshire county,4,7.4,1,1,129488,Massachusetts,3.08908933646361e-05
+ma,bristol county,10,8.7,1,1,552379,Massachusetts,1.8103512262414032e-05
+ma,essex county,23,7.0,1,1,764563,Massachusetts,3.0082543884545814e-05
+ma,franklin county,6,6.2,1,1,71361,Massachusetts,8.407953924412494e-05
+ma,hampden county,16,8.7,1,1,467747,Massachusetts,3.420652617761311e-05
+ma,hampshire county,7,6.1,1,1,160856,Massachusetts,4.351718307057244e-05
+ma,middlesex county,28,5.5,1,1,1560204,Massachusetts,1.7946371115572068e-05
+ma,norfolk county,9,5.8,1,1,688345,Massachusetts,1.307483892524824e-05
+ma,plymouth county,15,7.0,1,1,502792,Massachusetts,2.983341023723528e-05
+ma,suffolk county,9,6.2,1,1,762488,Massachusetts,1.1803464447965083e-05
+ma,worcester county,19,7.2,1,1,810846,Massachusetts,2.343231637080284e-05
+md,allegany county,1,8.5,3,5,73576,Maryland,1.3591388496248778e-05
+md,anne arundel county,11,5.7,3,5,555417,Maryland,1.9804939351874357e-05
+md,baltimore city,7,9.7,3,5,622391,Maryland,1.1246949265011865e-05
+md,baltimore county,12,6.9,3,5,822274,Maryland,1.4593675587456249e-05
+md,carroll county,4,5.5,3,5,167217,Maryland,2.3921012815682618e-05
+md,cecil county,6,7.7,3,5,101887,Maryland,5.8888768930285515e-05
+md,charles county,3,6.5,3,5,152645,Maryland,1.9653444266107636e-05
+md,frederick county,11,5.7,3,5,241129,Maryland,4.561873519983079e-05
+md,harford county,3,6.5,3,5,248890,Maryland,1.2053517618224919e-05
+md,howard county,5,4.8,3,5,303527,Maryland,1.6472999107163448e-05
+md,kent county,1,7.2,3,5,19816,Maryland,5.0464271295922484e-05
+md,montgomery county,10,4.9,3,5,1015172,Maryland,9.850547493429686e-06
+md,prince george's county,8,6.9,3,5,890658,Maryland,8.98212332904437e-06
+md,queen anne's county,1,5.8,3,5,48517,Maryland,2.0611332110394293e-05
+md,somerset county,2,10.7,3,5,25959,Maryland,7.704457028390924e-05
+md,st. mary's county,2,6.0,3,5,109224,Maryland,1.8310993920750017e-05
+md,washington county,8,7.3,3,5,148986,Maryland,5.36963204596405e-05
+md,worcester county,4,12.6,3,5,51551,Maryland,7.759306318015169e-05
+me,androscoggin county,7,6.7,1,1,107223,Maine,6.528450052693918e-05
+me,aroostook county,3,8.6,1,1,70064,Maine,4.281799497602192e-05
+me,cumberland county,10,5.3,1,1,285537,Maine,3.502173098407562e-05
+me,franklin county,2,7.7,1,1,30477,Maine,6.562325688223906e-05
+me,hancock county,5,7.9,1,1,54566,Maine,9.163215188945497e-05
+me,kennebec county,4,6.2,1,1,121139,Maine,3.301991926629739e-05
+me,knox county,4,5.9,1,1,39691,Maine,0.00010077851402081077
+me,lincoln county,2,6.8,1,1,34087,Maine,5.8673394549241645e-05
+me,penobscot county,10,6.8,1,1,153222,Maine,6.526477920925194e-05
+me,sagadahoc county,1,5.6,1,1,35021,Maine,2.8554295993832273e-05
+me,somerset county,5,9.2,1,1,51698,Maine,9.671554025300786e-05
+me,waldo county,2,7.2,1,1,39025,Maine,5.124919923126201e-05
+me,washington county,1,9.3,1,1,32260,Maine,3.0998140111593304e-05
+me,york county,8,6.3,1,1,199429,Maine,4.0114526974512234e-05
+mi,alger county,1,11.7,2,3,9438,Michigan,0.00010595465140919687
+mi,allegan county,2,6.7,2,3,112009,Michigan,1.78557080234624e-05
+mi,bay county,1,8.7,2,3,106794,Michigan,9.363821937562035e-06
+mi,benzie county,2,10.3,2,3,17348,Michigan,0.00011528706479133042
+mi,berrien county,6,8.7,2,3,156129,Michigan,3.842976000614876e-05
+mi,branch county,1,8.4,2,3,43587,Michigan,2.2942620506114208e-05
+mi,chippewa county,1,10.5,2,3,38569,Michigan,2.59275584018253e-05
+mi,clinton county,1,6.0,2,3,76809,Michigan,1.3019307633220066e-05
+mi,delta county,2,10.3,2,3,36799,Michigan,5.434930297018941e-05
+mi,dickinson county,1,8.3,2,3,26015,Michigan,3.843936190659235e-05
+mi,genesee county,9,9.7,2,3,415639,Michigan,2.165340596046088e-05
+mi,grand traverse county,1,7.6,2,3,90099,Michigan,1.1098902318560694e-05
+mi,gratiot county,1,8.9,2,3,41931,Michigan,2.3848703822947222e-05
+mi,houghton county,1,8.9,2,3,36676,Michigan,2.7265786890609663e-05
+mi,ingham county,1,7.7,2,3,284113,Michigan,3.519726306082439e-06
+mi,jackson county,1,8.3,2,3,159628,Michigan,6.264565113889794e-06
+mi,kalamazoo county,5,6.9,2,3,257311,Michigan,1.943173824671312e-05
+mi,kalkaska county,1,11.2,2,3,17290,Michigan,5.78368999421631e-05
+mi,kent county,11,6.2,2,3,624303,Michigan,1.7619649433047736e-05
+mi,lapeer county,1,11.4,2,3,88291,Michigan,1.1326182736632273e-05
+mi,leelanau county,2,7.7,2,3,21478,Michigan,9.311853990129435e-05
+mi,livingston county,4,7.4,2,3,184205,Michigan,2.1714937162400586e-05
+mi,macomb county,17,9.5,2,3,857110,Michigan,1.983409364025621e-05
+mi,manistee county,2,10.6,2,3,24481,Michigan,8.169600914995302e-05
+mi,marquette county,2,8.2,2,3,67773,Michigan,2.9510276953949212e-05
+mi,mecosta county,1,10.0,2,3,43260,Michigan,2.3116042533518262e-05
+mi,monroe county,4,7.4,2,3,150139,Michigan,2.6641978433318457e-05
+mi,muskegon county,5,9.9,2,3,172273,Michigan,2.9023700754035744e-05
+mi,oakland county,17,7.8,2,3,1235468,Michigan,1.3759967882616142e-05
+mi,oceana county,1,12.4,2,3,26298,Michigan,3.802570537683474e-05
+mi,ogemaw county,1,11.8,2,3,21160,Michigan,4.725897920604915e-05
+mi,ottawa county,2,6.1,2,3,274385,Michigan,7.289028190316526e-06
+mi,presque isle county,1,14.7,2,3,13010,Michigan,7.686395080707149e-05
+mi,saginaw county,3,9.0,2,3,196794,Michigan,1.5244367206317265e-05
+mi,st. clair county,2,11.5,2,3,160288,Michigan,1.2477540427230984e-05
+mi,st. joseph county,1,7.8,2,3,60989,Michigan,1.6396399350702586e-05
+mi,van buren county,2,10.1,2,3,75318,Michigan,2.655407737858148e-05
+mi,washtenaw county,7,5.8,2,3,356040,Michigan,1.9660712279519154e-05
+mi,wayne county,20,11.5,2,3,1780225,Michigan,1.123453496046848e-05
+mn,aitkin county,1,7.5,2,4,15872,Minnesota,6.300403225806451e-05
+mn,anoka county,10,5.0,2,4,339075,Minnesota,2.9492000294920004e-05
+mn,beltrami county,2,6.2,2,4,45487,Minnesota,4.396860641501968e-05
+mn,carver county,4,4.3,2,4,95610,Minnesota,4.1836627967785794e-05
+mn,cass county,1,8.2,2,4,28485,Minnesota,3.5106196243637e-05
+mn,clay county,1,4.3,2,4,60523,Minnesota,1.652264428399121e-05
+mn,cook county,1,5.8,2,4,5186,Minnesota,0.0001928268414963363
+mn,crow wing county,1,6.9,2,4,62998,Minnesota,1.5873519794279185e-05
+mn,dakota county,10,4.5,2,4,407895,Minnesota,2.451611321541083e-05
+mn,douglas county,1,4.4,2,4,36349,Minnesota,2.7511073206965803e-05
+mn,goodhue county,2,4.7,2,4,46106,Minnesota,4.337830217325294e-05
+mn,hennepin county,21,4.6,2,4,1198069,Minnesota,1.7528205804507085e-05
+mn,isanti county,2,6.0,2,4,38064,Minnesota,5.2543085329970576e-05
+mn,kanabec county,5,8.1,2,4,16008,Minnesota,0.00031234382808595704
+mn,lac qui parle county,3,5.6,2,4,7005,Minnesota,0.00042826552462526765
+mn,mcleod county,1,5.6,2,4,35900,Minnesota,2.7855153203342618e-05
+mn,meeker county,1,5.5,2,4,23087,Minnesota,4.3314419370208345e-05
+mn,mille lacs county,2,7.5,2,4,25658,Minnesota,7.794839816041781e-05
+mn,nicollet county,1,3.7,2,4,32981,Minnesota,3.032048755343986e-05
+mn,olmsted county,3,4.0,2,4,148851,Minnesota,2.0154382570489953e-05
+mn,otter tail county,2,5.3,2,4,57492,Minnesota,3.478744868851319e-05
+mn,pine county,1,6.9,2,4,29076,Minnesota,3.439262622093823e-05
+mn,ramsey county,7,4.9,2,4,527131,Minnesota,1.3279431488567357e-05
+mn,redwood county,1,5.5,2,4,15685,Minnesota,6.37551801083838e-05
+mn,renville county,2,6.5,2,4,15069,Minnesota,0.00013272280841462606
+mn,scott county,8,4.4,2,4,137244,Minnesota,5.829034420448253e-05
+mn,sherburne county,1,5.3,2,4,90069,Minnesota,1.110259911845363e-05
+mn,st. louis county,5,6.1,2,4,200452,Minnesota,2.4943627402071317e-05
+mn,stearns county,4,4.9,2,4,152577,Minnesota,2.6216271128676013e-05
+mn,steele county,1,4.6,2,4,36363,Minnesota,2.7500481258422024e-05
+mn,washington county,7,4.4,2,4,245946,Minnesota,2.846153220625666e-05
+mn,wilkin county,1,4.2,2,4,6496,Minnesota,0.0001539408866995074
+mn,winona county,1,4.4,2,4,51332,Minnesota,1.948102548118133e-05
+mn,wright county,2,5.0,2,4,128199,Minnesota,1.560074571564521e-05
+mo,andrew county,1,5.4,2,4,17305,Missouri,5.778676683039584e-05
+mo,boone county,3,4.5,2,4,170975,Missouri,1.754642491592338e-05
+mo,callaway county,5,6.0,2,4,44528,Missouri,0.0001122888968738771
+mo,cape girardeau county,2,5.8,2,4,77458,Missouri,2.5820444628056494e-05
+mo,cass county,2,6.3,2,4,100676,Missouri,1.9865707815169456e-05
+mo,franklin county,1,7.2,2,4,101712,Missouri,9.831681610822715e-06
+mo,greene county,4,5.5,2,4,283605,Missouri,1.410412369316479e-05
+mo,henry county,1,7.1,2,4,22116,Missouri,4.5216133116295895e-05
+mo,jackson county,6,7.6,2,4,679841,Missouri,8.825593043079191e-06
+mo,jasper county,1,5.8,2,4,116766,Missouri,8.564136820649846e-06
+mo,jefferson county,7,6.8,2,4,220870,Missouri,3.169285099832481e-05
+mo,marion county,1,6.0,2,4,28769,Missouri,3.475963710938858e-05
+mo,moniteau county,1,6.4,2,4,15742,Missouri,6.352432981832041e-05
+mo,morgan county,1,9.5,2,4,20122,Missouri,4.969684921975947e-05
+mo,new madrid county,1,7.8,2,4,18316,Missouri,5.4597073596855206e-05
+mo,pettis county,1,6.6,2,4,42196,Missouri,2.3698928808417858e-05
+mo,platte county,1,5.7,2,4,93367,Missouri,1.071042231195176e-05
+mo,st. charles county,21,5.3,2,4,374288,Missouri,5.6106527593724617e-05
+mo,st. francois county,2,8.5,2,4,66102,Missouri,3.0256270612084356e-05
+mo,st. louis city,13,8.4,2,4,318476,Missouri,4.081940240394881e-05
+mo,st. louis county,7,6.2,2,4,1000456,Missouri,6.996809454888571e-06
+mo,taney county,2,10.7,2,4,53255,Missouri,3.7555159139986855e-05
+mo,vernon county,1,5.9,2,4,20978,Missouri,4.766898655734579e-05
+mo,washington county,1,9.7,2,4,25144,Missouri,3.9770919503658924e-05
+mo,webster county,1,6.7,2,4,36626,Missouri,2.730300879156883e-05
+ms,adams county,2,9.3,3,6,32111,Mississippi,6.228395253962816e-05
+ms,bolivar county,1,10.7,3,6,33979,Mississippi,2.9429942023014216e-05
+ms,covington county,1,7.9,3,6,19208,Mississippi,5.2061640982923784e-05
+ms,desoto county,2,5.9,3,6,168370,Mississippi,1.187860070083744e-05
+ms,forrest county,3,8.4,3,6,76584,Mississippi,3.917267314321529e-05
+ms,franklin county,2,9.2,3,6,7876,Mississippi,0.00025393600812595224
+ms,grenada county,2,8.8,3,6,21529,Mississippi,9.289795160016721e-05
+ms,hancock county,1,7.8,3,6,45522,Mississippi,2.1967400377839286e-05
+ms,harrison county,4,7.5,3,6,196134,Mississippi,2.039422027797322e-05
+ms,hinds county,1,8.5,3,6,246250,Mississippi,4.060913705583756e-06
+ms,jackson county,3,8.9,3,6,140324,Mississippi,2.1379094096519483e-05
+ms,lafayette county,1,7.1,3,6,51565,Mississippi,1.9392999127315038e-05
+ms,lincoln county,1,7.7,3,6,34725,Mississippi,2.8797696184305255e-05
+ms,madison county,2,5.8,3,6,99485,Mississippi,2.010353319595919e-05
+ms,monroe county,2,11.8,3,6,36148,Mississippi,5.5328095606949206e-05
+ms,panola county,1,11.9,3,6,34395,Mississippi,2.9073993312981538e-05
+ms,rankin county,2,5.2,3,6,147321,Mississippi,1.3575797068985412e-05
+ms,tate county,1,8.9,3,6,28347,Mississippi,3.5277101633329805e-05
+ms,tunica county,1,12.4,3,6,10454,Mississippi,9.565716472163765e-05
+mt,broadwater county,1,6.4,4,8,5676,Montana,0.00017618040873854828
+mt,cascade county,1,5.1,4,8,82194,Montana,1.2166338175535928e-05
+mt,dawson county,1,3.2,4,8,9381,Montana,0.00010659844366272253
+mt,flathead county,6,7.7,4,8,92935,Montana,6.456125248829828e-05
+mt,gallatin county,10,4.1,4,8,94798,Montana,0.00010548745754129833
+mt,lake county,2,6.5,4,8,29121,Montana,6.867896020054257e-05
+mt,lewis and clark county,3,4.4,4,8,65234,Montana,4.598828831590888e-05
+mt,lincoln county,2,13.0,4,8,19424,Montana,0.00010296540362438221
+mt,madison county,2,5.5,4,8,7674,Montana,0.00026062027625749283
+mt,missoula county,5,5.2,4,8,111900,Montana,4.468275245755138e-05
+mt,ravalli county,1,6.7,4,8,40668,Montana,2.45893577259762e-05
+mt,richland county,1,2.6,4,8,11154,Montana,8.965393580778196e-05
+mt,sanders county,2,10.5,4,8,11310,Montana,0.00017683465959328028
+mt,silver bow county,3,5.5,4,8,34574,Montana,8.67704055070284e-05
+mt,yellowstone county,5,4.3,4,8,153775,Montana,3.251503820516989e-05
+nc,alamance county,2,7.3,3,5,154162,North Carolina,1.2973365680258429e-05
+nc,alexander county,2,7.8,3,5,37012,North Carolina,5.4036528693396736e-05
+nc,beaufort county,2,9.5,3,5,47382,North Carolina,4.2210121987252545e-05
+nc,brunswick county,16,9.8,3,5,114922,North Carolina,0.0001392248655609892
+nc,buncombe county,6,6.0,3,5,246807,North Carolina,2.4310493624573047e-05
+nc,burke county,1,8.3,3,5,89354,North Carolina,1.1191440786086801e-05
+nc,cabarrus county,3,7.6,3,5,187240,North Carolina,1.6022217474898526e-05
+nc,carteret county,5,7.8,3,5,68388,North Carolina,7.311224191378604e-05
+nc,catawba county,3,8.5,3,5,154965,North Carolina,1.9359210144226116e-05
+nc,cleveland county,3,9.5,3,5,96873,North Carolina,3.096838128271035e-05
+nc,craven county,1,8.7,3,5,104285,North Carolina,9.589106774703936e-06
+nc,cumberland county,7,9.7,3,5,332997,North Carolina,2.1021210401294905e-05
+nc,dare county,5,11.0,3,5,34810,North Carolina,0.00014363688595231256
+nc,davidson county,2,8.2,3,5,163295,North Carolina,1.2247772436388132e-05
+nc,davie county,2,7.5,3,5,41435,North Carolina,4.826837214914927e-05
+nc,durham county,4,6.3,3,5,288723,North Carolina,1.3854109301995338e-05
+nc,edgecombe county,2,13.0,3,5,55422,North Carolina,3.6086752553137746e-05
+nc,forsyth county,5,7.5,3,5,360594,North Carolina,1.3866009972434373e-05
+nc,franklin county,3,8.3,3,5,62074,North Carolina,4.832941328092277e-05
+nc,gaston county,9,9.0,3,5,209212,North Carolina,4.301856490067491e-05
+nc,guilford county,11,8.2,3,5,506400,North Carolina,2.1721958925750394e-05
+nc,harnett county,3,9.2,3,5,125028,North Carolina,2.3994625203954313e-05
+nc,hoke county,1,9.9,3,5,51155,North Carolina,1.954843123839312e-05
+nc,iredell county,2,8.4,3,5,164582,North Carolina,1.2151997180736655e-05
+nc,jackson county,1,8.8,3,5,41001,North Carolina,2.4389649032950417e-05
+nc,johnston county,3,7.1,3,5,177227,North Carolina,1.6927443335383435e-05
+nc,lincoln county,1,8.3,3,5,79111,North Carolina,1.2640467191667405e-05
+nc,mcdowell county,2,9.0,3,5,45021,North Carolina,4.4423713378201283e-05
+nc,mecklenburg county,11,7.5,3,5,990677,North Carolina,1.1103518099239207e-05
+nc,new hanover county,11,7.6,3,5,212921,North Carolina,5.166235364290042e-05
+nc,onslow county,2,7.0,3,5,192354,North Carolina,1.0397496282895078e-05
+nc,orange county,2,5.3,3,5,139397,North Carolina,1.434751106551791e-05
+nc,pamlico county,1,8.4,3,5,12880,North Carolina,7.763975155279503e-05
+nc,pasquotank county,1,9.6,3,5,39548,North Carolina,2.5285728734702136e-05
+nc,pender county,4,9.0,3,5,54779,North Carolina,7.302068310849048e-05
+nc,person county,1,10.1,3,5,39239,North Carolina,2.5484849257116646e-05
+nc,pitt county,2,8.1,3,5,174380,North Carolina,1.1469205184080743e-05
+nc,richmond county,1,11.8,3,5,46133,North Carolina,2.167645719983526e-05
+nc,rockingham county,1,9.7,3,5,91896,North Carolina,1.0881866457734831e-05
+nc,rowan county,1,9.3,3,5,137690,North Carolina,7.262691553489723e-06
+nc,rutherford county,1,11.2,3,5,66847,North Carolina,1.4959534459287626e-05
+nc,stanly county,1,8.2,3,5,60633,North Carolina,1.6492669008625666e-05
+nc,surry county,6,8.3,3,5,72643,North Carolina,8.259570777638588e-05
+nc,swain county,2,12.4,3,5,13977,North Carolina,0.00014309222293768333
+nc,union county,6,6.6,3,5,212200,North Carolina,2.827521206409048e-05
+nc,wake county,11,6.0,3,5,974198,North Carolina,1.1291339132291383e-05
+nc,watauga county,1,6.4,3,5,52295,North Carolina,1.9122287025528254e-05
+nc,yadkin county,1,7.7,3,5,38063,North Carolina,2.6272232877072222e-05
+nc,yancey county,1,9.5,3,5,17549,North Carolina,5.698330389195966e-05
+nd,burleigh county,1,2.5,2,4,88422,North Dakota,1.1309402637352695e-05
+nd,cass county,1,2.8,2,4,162837,North Dakota,6.141110435588963e-06
+nd,cavalier county,1,3.3,2,4,3856,North Dakota,0.00025933609958506224
+nd,grand forks county,1,3.0,2,4,69102,North Dakota,1.4471361176232237e-05
+nd,mercer county,2,4.6,2,4,8589,North Dakota,0.00023285597857724996
+ne,dakota county,2,4.7,2,4,20765,Nebraska,9.63159162051529e-05
+ne,dawson county,1,3.8,2,4,24016,Nebraska,4.1638907395069954e-05
+ne,douglas county,3,4.1,2,4,536734,Nebraska,5.5893608379569765e-06
+ne,fillmore county,1,3.0,2,4,5637,Nebraska,0.00017739932588256165
+ne,keith county,1,3.6,2,4,8158,Nebraska,0.00012257906349595488
+ne,lancaster county,8,3.5,2,4,297109,Nebraska,2.6926144950169803e-05
+ne,lincoln county,4,3.8,2,4,35936,Nebraska,0.00011130899376669635
+ne,sarpy county,2,3.6,2,4,168990,Nebraska,1.1835019823658205e-05
+ne,scotts bluff county,1,4.2,2,4,36853,Nebraska,2.7134832985102978e-05
+ne,webster county,1,3.9,2,4,3643,Nebraska,0.0002744990392533626
+ne,york county,1,3.6,2,4,13852,Nebraska,7.219174126479931e-05
+nh,belknap county,2,5.0,1,1,60235,New Hampshire,3.320328712542542e-05
+nh,carroll county,8,4.9,1,1,47520,New Hampshire,0.00016835016835016836
+nh,cheshire county,3,4.7,1,1,76712,New Hampshire,3.910731045990197e-05
+nh,coos county,1,6.1,1,1,31949,New Hampshire,3.1299884190428495e-05
+nh,grafton county,4,4.2,1,1,89894,New Hampshire,4.449685184773177e-05
+nh,hillsborough county,19,5.4,1,1,405281,New Hampshire,4.688105289909964e-05
+nh,merrimack county,5,4.6,1,1,147497,New Hampshire,3.3898994555821474e-05
+nh,rockingham county,14,5.4,1,1,299456,New Hampshire,4.675144261594358e-05
+nh,strafford county,2,4.9,1,1,125029,New Hampshire,1.5996288860984253e-05
+nh,sullivan county,2,4.1,1,1,43049,New Hampshire,4.645868661292945e-05
+nj,atlantic county,3,11.7,1,2,274314,New Jersey,1.0936372186618256e-05
+nj,bergen county,4,6.7,1,2,919951,New Jersey,4.3480576682888544e-06
+nj,burlington county,8,7.7,1,2,448824,New Jersey,1.7824358768693296e-05
+nj,camden county,12,9.4,1,2,509908,New Jersey,2.3533657051860335e-05
+nj,cape may county,11,14.3,1,2,95498,New Jersey,0.00011518565833839452
+nj,essex county,8,9.7,1,2,786649,New Jersey,1.016971991320144e-05
+nj,gloucester county,4,9.0,1,2,289883,New Jersey,1.3798670498097508e-05
+nj,hudson county,5,7.9,1,2,657047,New Jersey,7.6098056912214804e-06
+nj,hunterdon county,2,5.9,1,2,126376,New Jersey,1.5825789706906376e-05
+nj,mercer county,2,7.3,1,2,369429,New Jersey,5.413760154183889e-06
+nj,middlesex county,12,7.5,1,2,821743,New Jersey,1.460310583722648e-05
+nj,monmouth county,10,7.5,1,2,626912,New Jersey,1.5951202082588944e-05
+nj,morris county,2,6.2,1,2,496030,New Jersey,4.032014192689959e-06
+nj,ocean county,18,9.3,1,2,582059,New Jersey,3.092470007336026e-05
+nj,passaic county,4,10.0,1,2,503857,New Jersey,7.93876040225699e-06
+nj,salem county,1,10.4,1,2,64786,New Jersey,1.54354335813293e-05
+nj,somerset county,3,6.3,1,2,329047,New Jersey,9.117238570781681e-06
+nj,sussex county,2,7.9,1,2,145639,New Jersey,1.3732585365183776e-05
+nj,union county,4,8.4,1,2,546025,New Jersey,7.325671901469713e-06
+nj,warren county,6,7.6,1,2,106897,New Jersey,5.6128796879238894e-05
+nm,bernalillo county,30,6.5,4,8,676326,New Mexico,4.435730697917868e-05
+nm,dona ana county,4,7.5,4,8,214288,New Mexico,1.8666467557679386e-05
+nm,eddy county,2,4.6,4,8,55662,New Mexico,3.593115590528547e-05
+nm,lea county,1,4.5,4,8,68613,New Mexico,1.4574497544197163e-05
+nm,luna county,2,19.0,4,8,24592,New Mexico,8.132726089785297e-05
+nm,mckinley county,1,10.1,4,8,72665,New Mexico,1.3761783527145118e-05
+nm,quay county,1,7.3,4,8,8675,New Mexico,0.00011527377521613833
+nm,rio arriba county,1,9.6,4,8,40064,New Mexico,2.4960063897763577e-05
+nm,roosevelt county,1,5.6,4,8,20021,New Mexico,4.994755506717946e-05
+nm,san juan county,4,6.8,4,8,129467,New Mexico,3.0895903975530446e-05
+nm,sandoval county,7,7.4,4,8,136311,New Mexico,5.135315565141478e-05
+nm,santa fe county,12,5.6,4,8,147465,New Mexico,8.137524158274845e-05
+nm,sierra county,1,9.8,4,8,11524,New Mexico,8.677542519958348e-05
+nm,taos county,2,10.3,4,8,32957,New Mexico,6.0685135176138606e-05
+nm,union county,1,4.6,4,8,4347,New Mexico,0.00023004370830457787
+nv,carson city,1,10.4,4,8,53726,Nevada,1.861296206678331e-05
+nv,clark county,26,9.7,4,8,2017193,Nevada,1.288919800931294e-05
+nv,douglas county,1,9.7,4,8,46935,Nevada,2.130606157451795e-05
+nv,elko county,1,6.2,4,8,52334,Nevada,1.910803684029503e-05
+nv,lincoln county,1,9.6,4,8,5267,Nevada,0.00018986140117714068
+nv,lyon county,1,12.8,4,8,51090,Nevada,1.957330201605011e-05
+nv,washoe county,8,9.5,4,8,431083,Nevada,1.855791112152416e-05
+nv,white pine county,1,7.4,4,8,10046,Nevada,9.954210631096954e-05
+ny,albany county,12,6.1,1,2,306589,New York,3.9140347501051895e-05
+ny,broome county,6,7.8,1,2,197914,New York,3.031619794456178e-05
+ny,cattaraugus county,2,8.5,1,2,78996,New York,2.5317737606967443e-05
+ny,cayuga county,1,7.4,1,2,79088,New York,1.2644143232854542e-05
+ny,chautauqua county,6,8.0,1,2,132852,New York,4.516303856923494e-05
+ny,chemung county,1,7.9,1,2,88199,New York,1.1337997029444779e-05
+ny,columbia county,2,6.0,1,2,62170,New York,3.216985684413704e-05
+ny,cortland county,2,7.7,1,2,48905,New York,4.0895613945404356e-05
+ny,delaware county,1,7.9,1,2,46803,New York,2.1366151742409675e-05
+ny,dutchess county,3,6.7,1,2,296268,New York,1.0125967029851351e-05
+ny,erie county,13,7.4,1,2,920869,New York,1.4117100260731982e-05
+ny,essex county,1,8.3,1,2,38601,New York,2.5906064609725138e-05
+ny,franklin county,1,8.8,1,2,51212,New York,1.9526673435913458e-05
+ny,fulton county,2,9.5,1,2,54345,New York,3.6801913699512374e-05
+ny,genesee county,2,6.8,1,2,59112,New York,3.383407768304236e-05
+ny,greene county,1,8.8,1,2,48308,New York,2.0700505092324253e-05
+ny,hamilton county,1,9.5,1,2,4766,New York,0.000209819555182543
+ny,livingston county,2,7.0,1,2,64627,New York,3.094681789345011e-05
+ny,madison county,2,7.6,1,2,72457,New York,2.7602578080792746e-05
+ny,monroe county,8,7.0,1,2,748290,New York,1.0691042242980662e-05
+ny,montgomery county,2,9.2,1,2,49743,New York,4.020666224393382e-05
+ny,nassau county,15,5.9,1,2,1352193,New York,1.1093091001062717e-05
+ny,new york county,23,7.5,1,2,1627491,New York,1.4132182605003653e-05
+ny,niagara county,5,8.5,1,2,214105,New York,2.3353027720043903e-05
+ny,oneida county,6,7.4,1,2,233347,New York,2.571277968004731e-05
+ny,onondaga county,14,6.8,1,2,468146,New York,2.9905200514369447e-05
+ny,orange county,4,6.8,1,2,374320,New York,1.0686044026501389e-05
+ny,oswego county,2,9.9,1,2,121170,New York,1.6505735743170752e-05
+ny,putnam county,1,6.1,1,2,99572,New York,1.0042983971397581e-05
+ny,queens county,5,7.7,1,2,2287185,New York,2.1860933855372435e-06
+ny,rensselaer county,2,6.7,1,2,159545,New York,1.2535648249710113e-05
+ny,schenectady county,4,6.7,1,2,154944,New York,2.5815778603882695e-05
+ny,schoharie county,1,8.1,1,2,31900,New York,3.134796238244514e-05
+ny,st. lawrence county,3,9.1,1,2,111931,New York,2.6802226371603935e-05
+ny,suffolk county,25,6.6,1,2,1497346,New York,1.6696207823709418e-05
+ny,sullivan county,1,8.1,1,2,76945,New York,1.2996296055624147e-05
+ny,tioga county,1,7.1,1,2,50103,New York,1.9958884697523103e-05
+ny,tompkins county,4,5.2,1,2,103553,New York,3.8627562697362705e-05
+ny,ulster county,8,7.1,1,2,180698,New York,4.427276450209742e-05
+ny,warren county,2,8.2,1,2,65083,New York,3.0729990934652676e-05
+ny,washington county,3,7.5,1,2,62765,New York,4.7797339281446664e-05
+ny,wayne county,4,7.6,1,2,92339,New York,4.331864109422887e-05
+ny,westchester county,5,6.3,1,2,964567,New York,5.183673088546467e-06
+oh,allen county,2,7.8,2,3,105055,Ohio,1.903764694683737e-05
+oh,ashtabula county,2,9.5,2,3,99746,Ohio,2.005092936057586e-05
+oh,athens county,3,9.0,2,3,64594,Ohio,4.6443942161810695e-05
+oh,brown county,1,10.2,2,3,44111,Ohio,2.267008229239872e-05
+oh,butler county,15,7.5,2,3,371395,Ohio,4.038826586249142e-05
+oh,champaign county,1,6.9,2,3,39461,Ohio,2.5341476394414738e-05
+oh,clark county,5,7.5,2,3,136638,Ohio,3.659304146723459e-05
+oh,clermont county,3,7.4,2,3,200447,Ohio,1.4966549761283532e-05
+oh,clinton county,2,10.4,2,3,41864,Ohio,4.777374355054462e-05
+oh,coshocton county,1,9.8,2,3,36723,Ohio,2.7230890722435532e-05
+oh,crawford county,5,9.2,2,3,42713,Ohio,0.0001170603797438719
+oh,cuyahoga county,23,7.0,2,3,1265442,Ohio,1.817546754414663e-05
+oh,darke county,1,7.0,2,3,52306,Ohio,1.911826559094559e-05
+oh,defiance county,2,7.5,2,3,38564,Ohio,5.186184005808526e-05
+oh,delaware county,2,5.3,2,3,185380,Ohio,1.0788650339842485e-05
+oh,erie county,2,8.1,2,3,76053,Ohio,2.6297450462177693e-05
+oh,fairfield county,5,6.7,2,3,148796,Ohio,3.3603053845533484e-05
+oh,franklin county,50,6.4,2,3,1218878,Ohio,4.102133273387492e-05
+oh,fulton county,2,7.9,2,3,42199,Ohio,4.7394488021043153e-05
+oh,geauga county,2,5.7,2,3,93846,Ohio,2.1311510346738275e-05
+oh,greene county,9,7.0,2,3,163907,Ohio,5.490918630686914e-05
+oh,hamilton county,21,7.3,2,3,805182,Ohio,2.608105993427573e-05
+oh,hancock county,2,6.2,2,3,75581,Ohio,2.646167687646366e-05
+oh,huron county,2,10.2,2,3,58825,Ohio,3.399915002124947e-05
+oh,jackson county,2,10.5,2,3,32801,Ohio,6.097375080028048e-05
+oh,knox county,5,6.9,2,3,60858,Ohio,8.215846725163495e-05
+oh,lake county,2,6.2,2,3,230075,Ohio,8.69281755949147e-06
+oh,lawrence county,1,8.8,2,3,61858,Ohio,1.6166057745158265e-05
+oh,licking county,2,6.9,2,3,168461,Ohio,1.1872184066341764e-05
+oh,lorain county,6,7.3,2,3,303098,Ohio,1.979557766794898e-05
+oh,lucas county,11,8.7,2,3,436156,Ohio,2.5220334008932585e-05
+oh,mahoning county,11,8.5,2,3,234393,Ohio,4.692972913013614e-05
+oh,medina county,8,5.8,2,3,174639,Ohio,4.580878268886102e-05
+oh,mercer county,1,5.1,2,3,40615,Ohio,2.4621445278837867e-05
+oh,miami county,1,7.2,2,3,103213,Ohio,9.688702004592445e-06
+oh,montgomery county,24,8.3,2,3,534270,Ohio,4.4921107305295074e-05
+oh,muskingum county,1,9.1,2,3,85649,Ohio,1.1675559551191491e-05
+oh,ottawa county,4,9.7,2,3,41035,Ohio,9.747776288534179e-05
+oh,pickaway county,1,7.3,2,3,56355,Ohio,1.7744654422855114e-05
+oh,pike county,1,12.2,2,3,28272,Ohio,3.5370684776457274e-05
+oh,portage county,5,7.7,2,3,161695,Ohio,3.092241565911129e-05
+oh,preble county,1,7.5,2,3,41671,Ohio,2.3997504259557007e-05
+oh,richland county,7,8.6,2,3,122314,Ohio,5.722975293098092e-05
+oh,ross county,1,8.7,2,3,77283,Ohio,1.2939456284046944e-05
+oh,sandusky county,3,7.6,2,3,60049,Ohio,4.995919998667755e-05
+oh,scioto county,1,11.9,2,3,78304,Ohio,1.2770739681242338e-05
+oh,shelby county,2,6.7,2,3,49203,Ohio,4.064792797187163e-05
+oh,stark county,14,7.6,2,3,375108,Ohio,3.732258442901777e-05
+oh,summit county,13,7.6,2,3,541926,Ohio,2.3988515037108388e-05
+oh,trumbull county,4,9.4,2,3,206328,Ohio,1.9386607731379164e-05
+oh,tuscarawas county,2,7.3,2,3,92602,Ohio,2.1597805662944646e-05
+oh,union county,2,5.8,2,3,53436,Ohio,3.742795119395164e-05
+oh,van wert county,1,7.0,2,3,28347,Ohio,3.5277101633329805e-05
+oh,warren county,15,6.4,2,3,219216,Ohio,6.842566236041165e-05
+oh,washington county,1,8.6,2,3,61364,Ohio,1.6296199726223845e-05
+oh,wayne county,2,6.2,2,3,115400,Ohio,1.733102253032929e-05
+oh,wood county,2,7.0,2,3,129013,Ohio,1.550231372032276e-05
+ok,atoka county,1,6.9,3,7,13901,Oklahoma,7.193727069994964e-05
+ok,canadian county,3,4.1,3,7,125943,Oklahoma,2.3820299659369715e-05
+ok,carter county,1,5.3,3,7,48465,Oklahoma,2.063344681729083e-05
+ok,cleveland county,10,4.3,3,7,269860,Oklahoma,3.7056251389609425e-05
+ok,comanche county,3,5.8,3,7,124949,Oklahoma,2.400979599676668e-05
+ok,creek county,1,6.0,3,7,70575,Oklahoma,1.4169323414806943e-05
+ok,garvin county,1,5.0,3,7,27429,Oklahoma,3.6457763680775823e-05
+ok,grady county,1,4.8,3,7,53637,Oklahoma,1.864384659843019e-05
+ok,le flore county,3,8.9,3,7,50301,Oklahoma,5.964096141229796e-05
+ok,logan county,1,4.5,3,7,43829,Oklahoma,2.2815943781514522e-05
+ok,mcclain county,2,4.4,3,7,36457,Oklahoma,5.485914913459692e-05
+ok,muskogee county,2,6.5,3,7,70172,Oklahoma,2.8501396568431854e-05
+ok,oklahoma county,15,4.8,3,7,756187,Oklahoma,1.9836363227614332e-05
+ok,okmulgee county,1,7.6,3,7,39396,Oklahoma,2.5383287643415574e-05
+ok,pawnee county,1,6.0,3,7,16456,Oklahoma,6.076810889645114e-05
+ok,payne county,5,4.4,3,7,79698,Oklahoma,6.273683153905996e-05
+ok,pittsburg county,1,7.3,3,7,45267,Oklahoma,2.209114807696556e-05
+ok,pottawatomie county,1,5.5,3,7,70906,Oklahoma,1.4103178856514259e-05
+ok,pushmataha county,1,8.9,3,7,11206,Oklahoma,8.92379082634303e-05
+ok,rogers county,3,5.1,3,7,88727,Oklahoma,3.381157933887092e-05
+ok,tulsa county,13,5.1,3,7,623705,Oklahoma,2.0843187083637295e-05
+ok,wagoner county,1,5.1,3,7,75654,Oklahoma,1.3218071747693447e-05
+ok,washita county,1,4.2,3,7,11701,Oklahoma,8.54627809588924e-05
+or,baker county,1,9.6,4,9,16016,Oregon,6.243756243756244e-05
+or,benton county,3,5.7,4,9,86167,Oregon,3.481611289704875e-05
+or,clackamas county,11,7.1,4,9,387442,Oregon,2.8391346317642383e-05
+or,clatsop county,7,7.8,4,9,37113,Oregon,0.000188613154420284
+or,columbia county,4,9.6,4,9,49259,Oregon,8.12034349052965e-05
+or,coos county,7,10.2,4,9,62376,Oregon,0.00011222264973707836
+or,curry county,1,10.6,4,9,22226,Oregon,4.499235130027895e-05
+or,deschutes county,6,9.5,4,9,165299,Oregon,3.629786024113878e-05
+or,douglas county,4,10.6,4,9,106603,Oregon,3.752239618022007e-05
+or,hood river county,3,6.3,4,9,22577,Oregon,0.00013287859325862605
+or,jackson county,5,9.7,4,9,207179,Oregon,2.4133720116421067e-05
+or,josephine county,3,11.1,4,9,83131,Oregon,3.6087620743164405e-05
+or,klamath county,2,10.8,4,9,65682,Oregon,3.0449742699674187e-05
+or,lake county,1,11.4,4,9,7795,Oregon,0.0001282873636946761
+or,lane county,18,8.0,4,9,355481,Oregon,5.063561765607726e-05
+or,lincoln county,11,8.8,4,9,46322,Oregon,0.0002374681576788567
+or,linn county,6,9.7,4,9,118405,Oregon,5.067353574595667e-05
+or,marion county,15,8.8,4,9,321471,Oregon,4.666050747967935e-05
+or,multnomah county,31,6.8,4,9,766532,Oregon,4.044188631394384e-05
+or,tillamook county,3,8.4,4,9,25343,Oregon,0.00011837588288679319
+or,umatilla county,3,8.8,4,9,76875,Oregon,3.902439024390244e-05
+or,wasco county,1,7.6,4,9,25323,Oregon,3.9489791888796745e-05
+or,washington county,17,6.3,4,9,555264,Oregon,3.06160673121254e-05
+or,yamhill county,3,7.5,4,9,99869,Oregon,3.0039351550531197e-05
+pa,allegheny county,33,6.5,1,2,1233700,Pennsylvania,2.674880440949988e-05
+pa,armstrong county,2,7.7,1,2,67964,Pennsylvania,2.9427343887940674e-05
+pa,beaver county,4,7.2,1,2,169726,Pennsylvania,2.356739686317948e-05
+pa,berks county,12,7.1,1,2,413915,Pennsylvania,2.899145959919307e-05
+pa,blair county,2,7.0,1,2,125836,Pennsylvania,1.5893702914905113e-05
+pa,bucks county,21,6.6,1,2,625012,Pennsylvania,3.359935489238607e-05
+pa,butler county,5,6.2,1,2,185103,Pennsylvania,2.7011987920239002e-05
+pa,cambria county,3,8.7,1,2,138826,Pennsylvania,2.1609784910607524e-05
+pa,carbon county,4,9.3,1,2,64538,Pennsylvania,6.197898912268741e-05
+pa,centre county,1,5.3,1,2,158231,Pennsylvania,6.319874108107766e-06
+pa,chester county,18,5.3,1,2,509105,Pennsylvania,3.535616424902525e-05
+pa,clearfield county,1,9.0,1,2,81428,Pennsylvania,1.2280787935353932e-05
+pa,clinton county,3,9.0,1,2,39831,Pennsylvania,7.531821947729155e-05
+pa,columbia county,1,7.7,1,2,67193,Pennsylvania,1.488250264164422e-05
+pa,crawford county,3,7.2,1,2,87508,Pennsylvania,3.428257987841112e-05
+pa,cumberland county,6,5.7,1,2,241059,Pennsylvania,2.4890172115540177e-05
+pa,dauphin county,2,6.8,1,2,271431,Pennsylvania,7.368355125243616e-06
+pa,delaware county,3,7.1,1,2,561499,Pennsylvania,5.342841216101898e-06
+pa,erie county,9,7.4,1,2,280717,Pennsylvania,3.206075870004311e-05
+pa,fayette county,1,9.6,1,2,134601,Pennsylvania,7.429365309321625e-06
+pa,franklin county,1,6.6,1,2,151945,Pennsylvania,6.5813287702787195e-06
+pa,indiana county,2,7.7,1,2,88140,Pennsylvania,2.269117313365101e-05
+pa,lackawanna county,2,8.3,1,2,213725,Pennsylvania,9.35781962802667e-06
+pa,lancaster county,19,6.0,1,2,530012,Pennsylvania,3.584824494539746e-05
+pa,lawrence county,4,7.5,1,2,89258,Pennsylvania,4.4813910237737796e-05
+pa,lebanon county,7,6.2,1,2,135804,Pennsylvania,5.154487349415334e-05
+pa,lehigh county,7,7.8,1,2,355341,Pennsylvania,1.9699387349053446e-05
+pa,luzerne county,9,9.4,1,2,319637,Pennsylvania,2.8156940529413052e-05
+pa,lycoming county,4,7.8,1,2,116598,Pennsylvania,3.4305905761676875e-05
+pa,mckean county,1,8.2,1,2,42808,Pennsylvania,2.3360119603812372e-05
+pa,mercer county,2,7.2,1,2,115129,Pennsylvania,1.7371817700145056e-05
+pa,monroe county,6,9.4,1,2,167355,Pennsylvania,3.585193152281079e-05
+pa,montgomery county,11,5.9,1,2,812586,Pennsylvania,1.3537028696039557e-05
+pa,northampton county,10,7.4,1,2,298955,Pennsylvania,3.344985031191985e-05
+pa,perry county,2,6.5,1,2,45649,Pennsylvania,4.3812569826283164e-05
+pa,philadelphia county/city,7,10.3,1,2,1558313,Pennsylvania,4.492037222303863e-06
+pa,pike county,3,9.7,1,2,56061,Pennsylvania,5.351313747525017e-05
+pa,snyder county,1,6.9,1,2,40123,Pennsylvania,2.4923360665952197e-05
+pa,somerset county,1,9.2,1,2,76587,Pennsylvania,1.3057046235000719e-05
+pa,tioga county,1,8.6,1,2,42211,Pennsylvania,2.3690507213759446e-05
+pa,union county,1,6.3,1,2,44735,Pennsylvania,2.2353861629596513e-05
+pa,washington county,3,6.9,1,2,208046,Pennsylvania,1.441988790940465e-05
+pa,wayne county,3,7.9,1,2,52204,Pennsylvania,5.7466860776951956e-05
+pa,westmoreland county,8,7.0,1,2,360663,Pennsylvania,2.2181371529655107e-05
+pa,wyoming county,1,8.6,1,2,28133,Pennsylvania,3.5545444851242315e-05
+pa,york county,8,6.7,1,2,438932,Pennsylvania,1.8226057794829267e-05
+ri,kent county,6,8.7,1,1,164358,Rhode Island,3.6505676632716386e-05
+ri,newport county,1,8.5,1,1,83459,Rhode Island,1.1981931247678501e-05
+ri,providence county,17,9.8,1,1,631584,Rhode Island,2.6916451335055986e-05
+ri,washington county,4,8.6,1,1,126433,Rhode Island,3.163730987954094e-05
+sc,aiken county,2,7.6,3,5,163702,South Carolina,1.2217321718732819e-05
+sc,anderson county,5,7.1,3,5,190005,South Carolina,2.6315096971132338e-05
+sc,berkeley county,3,7.0,3,5,194031,South Carolina,1.5461446882199238e-05
+sc,charleston county,14,5.9,3,5,371703,South Carolina,3.766447943653939e-05
+sc,cherokee county,1,10.5,3,5,56056,South Carolina,1.7839303553589267e-05
+sc,chester county,2,12.2,3,5,32737,South Carolina,6.109295292787977e-05
+sc,darlington county,1,9.3,3,5,67808,South Carolina,1.4747522416234073e-05
+sc,fairfield county,2,10.7,3,5,23194,South Carolina,8.622919720617402e-05
+sc,florence county,4,8.3,3,5,138178,South Carolina,2.894816830465052e-05
+sc,georgetown county,5,10.1,3,5,60476,South Carolina,8.267742575567167e-05
+sc,greenville county,10,6.1,3,5,473014,South Carolina,2.11410233100923e-05
+sc,greenwood county,1,8.6,3,5,69823,South Carolina,1.4321928304426908e-05
+sc,horry county,56,8.6,3,5,288783,South Carolina,0.00019391723197002595
+sc,laurens county,1,8.6,3,5,66149,South Carolina,1.5117386506220805e-05
+sc,lexington county,9,5.8,3,5,273248,South Carolina,3.293711207401335e-05
+sc,pickens county,2,7.4,3,5,119249,South Carolina,1.6771629112193813e-05
+sc,richland county,3,6.9,3,5,396757,South Carolina,7.561303266230968e-06
+sc,spartanburg county,3,7.7,3,5,290414,South Carolina,1.0330080505760742e-05
+sc,york county,6,7.7,3,5,238605,South Carolina,2.5146162067014522e-05
+sd,beadle county,1,3.6,2,4,18201,South Dakota,5.494203615185979e-05
+sd,davison county,2,3.1,2,4,19941,South Dakota,0.00010029587282483326
+sd,hughes county,1,2.9,2,4,17428,South Dakota,5.737893045673629e-05
+sd,minnehaha county,3,3.3,2,4,177981,South Dakota,1.6855731791595732e-05
+sd,pennington county,4,3.9,2,4,105919,South Dakota,3.776470699307962e-05
+sd,roberts county,1,5.2,2,4,10238,South Dakota,9.767532721234616e-05
+sd,todd county,1,9.8,2,4,9994,South Dakota,0.00010006003602161297
+sd,yankton county,3,3.3,2,4,22641,South Dakota,0.00013250298131707962
+tn,anderson county,1,7.9,3,6,75299,Tennessee,1.3280388849785521e-05
+tn,bedford county,2,9.2,3,6,45565,Tennessee,4.389333918577856e-05
+tn,blount county,4,7.0,3,6,124874,Tennessee,3.203228854685523e-05
+tn,bradley county,1,7.1,3,6,101778,Tennessee,9.825306058283716e-06
+tn,carter county,2,9.2,3,6,56978,Tennessee,3.510126715574432e-05
+tn,cumberland county,1,9.3,3,6,57438,Tennessee,1.741007695254013e-05
+tn,davidson county,22,5.9,3,6,660179,Tennessee,3.332429538049529e-05
+tn,dickson county,2,7.7,3,6,50164,Tennessee,3.986922892911251e-05
+tn,dyer county,1,10.5,3,6,38093,Tennessee,2.6251542278108837e-05
+tn,fayette county,2,8.6,3,6,38812,Tennessee,5.153045449860868e-05
+tn,franklin county,1,7.3,3,6,41213,Tennessee,2.4264188484216147e-05
+tn,gibson county,2,11.0,3,6,49380,Tennessee,4.050222762251924e-05
+tn,greene county,1,9.7,3,6,68336,Tennessee,1.4633575275111216e-05
+tn,hamblen county,1,9.1,3,6,63051,Tennessee,1.586017668236824e-05
+tn,hamilton county,6,7.2,3,6,349050,Tennessee,1.7189514396218306e-05
+tn,hancock county,1,11.8,3,6,6621,Tennessee,0.00015103458692040478
+tn,hardin county,1,10.4,3,6,25925,Tennessee,3.8572806171648985e-05
+tn,humphreys county,1,8.8,3,6,18244,Tennessee,5.4812541109405835e-05
+tn,jefferson county,2,9.1,3,6,52134,Tennessee,3.83626807841332e-05
+tn,knox county,4,6.3,3,6,444314,Tennessee,9.002642275507862e-06
+tn,loudon county,1,7.8,3,6,50386,Tennessee,1.9846782836502202e-05
+tn,marshall county,2,8.2,3,6,31140,Tennessee,6.422607578676943e-05
+tn,maury county,4,7.1,3,6,83618,Tennessee,4.783659020784999e-05
+tn,meigs county,1,10.3,3,6,11659,Tennessee,8.577064928381508e-05
+tn,montgomery county,5,7.6,3,6,184252,Tennessee,2.7136747497991882e-05
+tn,obion county,1,11.6,3,6,31017,Tennessee,3.224038430538092e-05
+tn,rhea county,1,10.7,3,6,32529,Tennessee,3.0741799624950045e-05
+tn,rutherford county,5,6.2,3,6,281148,Tennessee,1.7784227524293254e-05
+tn,sevier county,4,8.5,3,6,93477,Tennessee,4.279127485905624e-05
+tn,shelby county,5,8.8,3,6,938363,Tennessee,5.328428337434447e-06
+tn,sullivan county,2,7.6,3,6,156185,Tennessee,1.2805327016038672e-05
+tn,sumner county,7,6.2,3,6,168754,Tennessee,4.1480498240041715e-05
+tn,tipton county,1,9.5,3,6,61572,Tennessee,1.6241148574027155e-05
+tn,unicoi county,1,10.5,3,6,18095,Tennessee,5.526388505111909e-05
+tn,warren county,1,8.5,3,6,39875,Tennessee,2.5078369905956112e-05
+tn,washington county,1,7.2,3,6,125397,Tennessee,7.974672440329514e-06
+tn,weakley county,1,10.4,3,6,34155,Tennessee,2.9278290147855364e-05
+tn,williamson county,6,5.2,3,6,199143,Tennessee,3.0129103207243037e-05
+tn,wilson county,2,6.3,3,6,121990,Tennessee,1.6394786457906387e-05
+tx,bandera county,2,6.0,3,7,20557,Texas,9.729046067033128e-05
+tx,bastrop county,3,6.2,3,7,75814,Texas,3.9570527870841794e-05
+tx,bell county,1,6.9,3,7,327028,Texas,3.0578421419572638e-06
+tx,bexar county,9,5.8,3,7,1821328,Texas,4.941449316103415e-06
+tx,blanco county,1,4.7,3,7,10636,Texas,9.40203083866115e-05
+tx,brazoria county,5,6.1,3,7,329890,Texas,1.5156567340628694e-05
+tx,brazos county,4,4.9,3,7,204116,Texas,1.959669991573419e-05
+tx,burnet county,1,5.5,3,7,43580,Texas,2.2946305644791188e-05
+tx,cameron county,2,10.0,3,7,417357,Texas,4.792060514140173e-06
+tx,childress county,1,4.3,3,7,7055,Texas,0.00014174344436569808
+tx,collin county,8,5.5,3,7,856398,Texas,9.34145105429952e-06
+tx,comal county,1,6.0,3,7,118627,Texas,8.42978411322886e-06
+tx,dallas county,23,6.6,3,7,2484486,Texas,9.25744801942937e-06
+tx,denton county,6,5.4,3,7,728624,Texas,8.23469992753464e-06
+tx,ector county,1,4.3,3,7,149656,Texas,6.681990698668947e-06
+tx,el paso county,2,7.9,3,7,830864,Texas,2.4071328159602532e-06
+tx,fort bend county,6,5.5,3,7,651847,Texas,9.204613966160771e-06
+tx,gaines county,1,4.2,3,7,18807,Texas,5.317169139150316e-05
+tx,galveston county,5,6.9,3,7,306589,Texas,1.630847812543829e-05
+tx,gray county,1,5.2,3,7,22996,Texas,4.348582362149939e-05
+tx,grayson county,1,6.3,3,7,122362,Texas,8.172471845834491e-06
+tx,harris county,22,6.1,3,7,4353187,Texas,5.053768652713518e-06
+tx,hays county,3,5.3,3,7,176035,Texas,1.70420654983384e-05
+tx,henderson county,2,7.1,3,7,78669,Texas,2.5422974742274595e-05
+tx,hidalgo county,2,10.3,3,7,818619,Texas,2.4431389938420683e-06
+tx,hill county,2,6.4,3,7,34851,Texas,5.7387162491750596e-05
+tx,hopkins county,1,5.8,3,7,35299,Texas,2.832941443100371e-05
+tx,hunt county,1,7.4,3,7,87429,Texas,1.1437852428827963e-05
+tx,jack county,1,5.3,3,7,8951,Texas,0.00011171936096525528
+tx,jasper county,1,10.5,3,7,35617,Texas,2.8076480332425527e-05
+tx,jefferson county,2,10.9,3,7,253079,Texas,7.902670707565621e-06
+tx,kendall county,1,5.1,3,7,37133,Texas,2.6930223790159697e-05
+tx,la salle county,1,3.8,3,7,7444,Texas,0.00013433637829124128
+tx,lampasas county,1,7.2,3,7,20142,Texas,4.964750273061265e-05
+tx,lee county,1,5.1,3,7,16545,Texas,6.044122091266244e-05
+tx,llano county,1,6.4,3,7,19509,Texas,5.125839356194577e-05
+tx,lubbock county,3,4.9,3,7,289515,Texas,1.0362157401170924e-05
+tx,matagorda county,1,9.7,3,7,36500,Texas,2.7397260273972603e-05
+tx,montgomery county,4,5.4,3,7,498392,Texas,8.02581100820238e-06
+tx,nueces county,4,6.1,3,7,352946,Texas,1.133317844656123e-05
+tx,orange county,2,10.4,3,7,82811,Texas,2.4151380855200397e-05
+tx,parker county,1,5.5,3,7,119785,Texas,8.348290687481739e-06
+tx,polk county,1,7.7,3,7,45522,Texas,2.1967400377839286e-05
+tx,san patricio county,1,7.2,3,7,66134,Texas,1.512081531436175e-05
+tx,scurry county,1,4.2,3,7,17272,Texas,5.789717461787865e-05
+tx,smith county,1,6.5,3,7,216475,Texas,4.61947107056242e-06
+tx,somervell county,1,6.0,3,7,8566,Texas,0.00011674060238150829
+tx,tarrant county,20,6.0,3,7,1912767,Texas,1.04560565923607e-05
+tx,tom green county,1,5.2,3,7,114680,Texas,8.719916288803627e-06
+tx,travis county,27,5.0,3,7,1122248,Texas,2.4058853301587527e-05
+tx,tyler county,3,10.3,3,7,21508,Texas,0.00013948298307606472
+tx,uvalde county,2,7.0,3,7,26904,Texas,7.43383883437407e-05
+tx,ward county,1,4.7,3,7,11205,Texas,8.92458723784025e-05
+tx,wichita county,4,5.9,3,7,132192,Texas,3.025901718712176e-05
+tx,williamson county,5,5.3,3,7,470017,Texas,1.063791309676033e-05
+tx,wise county,1,6.0,3,7,61019,Texas,1.6388338058637473e-05
+ut,box elder county,1,4.7,4,8,50727,Utah,1.9713367634593018e-05
+ut,cache county,2,4.0,4,8,117025,Utah,1.7090365306558428e-05
+ut,carbon county,1,6.3,4,8,20903,Utah,4.784002296321102e-05
+ut,davis county,7,4.3,4,8,322228,Utah,2.1723748401752797e-05
+ut,iron county,2,5.5,4,8,46530,Utah,4.298302170642596e-05
+ut,salt lake county,26,4.4,4,8,1079392,Utah,2.408763452017432e-05
+ut,summit county,1,4.2,4,8,38420,Utah,2.6028110359187923e-05
+ut,tooele county,2,5.4,4,8,60633,Utah,3.298533801725133e-05
+ut,uintah county,1,4.4,4,8,35682,Utah,2.8025334902752086e-05
+ut,utah county,19,4.2,4,8,551273,Utah,3.446568215747914e-05
+ut,washington county,4,5.5,4,8,146987,Utah,2.721329097131039e-05
+ut,weber county,4,5.4,4,8,238062,Utah,1.6802345607446798e-05
+va,albemarle county,2,4.8,3,5,102270,Virginia,1.955607705094358e-05
+va,alexandria city,4,4.1,3,5,149637,Virginia,2.6731356549516496e-05
+va,amherst county,1,6.1,3,5,32317,Virginia,3.094346628709348e-05
+va,arlington county,4,3.5,3,5,224894,Virginia,1.7786157033980453e-05
+va,bristol city,2,7.0,3,5,17386,Virginia,0.00011503508570113885
+va,caroline county,1,7.1,3,5,29248,Virginia,3.4190371991247264e-05
+va,carroll county,1,8.3,3,5,29909,Virginia,3.3434752081313316e-05
+va,charlotte county,1,7.8,3,5,12279,Virginia,8.143985666585227e-05
+va,chesapeake city,4,5.9,3,5,230327,Virginia,1.736661355377355e-05
+va,chesterfield county,7,5.7,3,5,327612,Virginia,2.1366738703100007e-05
+va,colonial heights city,1,6.5,3,5,17487,Virginia,5.7185337679418995e-05
+va,covington city,1,8.4,3,5,5827,Virginia,0.00017161489617298782
+va,craig county,1,7.0,3,5,5138,Virginia,0.00019462826002335538
+va,culpeper county,1,5.4,3,5,48606,Virginia,2.057359173764556e-05
+va,danville city,1,9.8,3,5,42623,Virginia,2.346151139056378e-05
+va,fairfax city,3,4.2,3,5,23230,Virginia,0.00012914334911752045
+va,fairfax county,16,4.4,3,5,1131784,Virginia,1.4136973132682561e-05
+va,falls church city,2,3.9,3,5,13360,Virginia,0.0001497005988023952
+va,fauquier county,1,4.9,3,5,67139,Virginia,1.4894472661195431e-05
+va,floyd county,1,5.4,3,5,15482,Virginia,6.459113809585325e-05
+va,franklin county,1,5.9,3,5,56269,Virginia,1.7771774867155984e-05
+va,frederick county,1,5.3,3,5,81474,Virginia,1.2273854235707096e-05
+va,fredericksburg city,7,6.5,3,5,27818,Virginia,0.0002516356316054353
+va,gloucester county,1,5.2,3,5,36768,Virginia,2.7197563098346387e-05
+va,grayson county,2,9.7,3,5,15128,Virginia,0.00013220518244315177
+va,greene county,1,4.8,3,5,18848,Virginia,5.305602716468591e-05
+va,hampton city,4,7.5,3,5,137332,Virginia,2.9126496373751203e-05
+va,hanover county,2,5.1,3,5,101065,Virginia,1.9789244545589473e-05
+va,harrisonburg city,1,6.8,3,5,51537,Virginia,1.9403535324136057e-05
+va,henrico county,1,5.6,3,5,318640,Virginia,3.138337936228973e-06
+va,king george county,1,5.8,3,5,24897,Virginia,4.016548178495401e-05
+va,loudoun county,9,4.4,3,5,349915,Virginia,2.5720532129231386e-05
+va,lynchburg city,2,7.1,3,5,77940,Virginia,2.5660764690787784e-05
+va,manassas city,4,5.4,3,5,41082,Virginia,9.736624312350908e-05
+va,montgomery county,1,5.7,3,5,96589,Virginia,1.0353145803352348e-05
+va,new kent county,1,5.0,3,5,19516,Virginia,5.124000819840131e-05
+va,newport news city,4,6.8,3,5,181275,Virginia,2.206592194180113e-05
+va,norfolk city,4,7.0,3,5,245468,Virginia,1.6295403066794858e-05
+va,northampton county,1,9.1,3,5,12030,Virginia,8.312551953449709e-05
+va,page county,1,9.2,3,5,23723,Virginia,4.2153184673102054e-05
+va,petersburg city,1,11.7,3,5,32311,Virginia,3.094921234254588e-05
+va,portsmouth city,2,8.1,3,5,96075,Virginia,2.0817069997397866e-05
+va,prince george county,1,7.0,3,5,37333,Virginia,2.6785953446012912e-05
+va,prince william county,11,5.2,3,5,437735,Virginia,2.512935908711892e-05
+va,richmond city,15,6.8,3,5,213860,Virginia,7.013934349574488e-05
+va,roanoke city,4,6.7,3,5,98849,Virginia,4.0465760908051675e-05
+va,shenandoah county,1,5.6,3,5,42506,Virginia,2.3526090434291628e-05
+va,southampton county,1,5.6,3,5,18329,Virginia,5.45583501554913e-05
+va,stafford county,1,5.7,3,5,135923,Virginia,7.3571065971174855e-06
+va,staunton city,2,5.8,3,5,24101,Virginia,8.298410854321397e-05
+va,suffolk city,2,6.3,3,5,85751,Virginia,2.3323343168009702e-05
+va,surry county,2,7.3,3,5,6787,Virginia,0.0002946810078090467
+va,virginia beach city,18,5.4,3,5,447706,Virginia,4.0204955930901083e-05
+va,warren county,2,6.1,3,5,38500,Virginia,5.194805194805195e-05
+va,washington county,1,6.4,3,5,54776,Virginia,1.825617058565795e-05
+va,waynesboro city,1,6.1,3,5,21167,Virginia,4.7243350498417346e-05
+va,williamsburg city,1,7.7,3,5,14617,Virginia,6.84134911404529e-05
+va,winchester city,3,5.8,3,5,27321,Virginia,0.00010980564401010212
+va,wythe county,1,7.8,3,5,29282,Virginia,3.415067276825353e-05
+va,york county,1,5.4,3,5,65980,Virginia,1.515610791148833e-05
+vt,addison county,3,4.1,1,1,36934,Vermont,8.122597065034928e-05
+vt,bennington county,3,5.2,1,1,36534,Vermont,8.211528986697323e-05
+vt,caledonia county,3,5.3,1,1,31044,Vermont,9.663703131039814e-05
+vt,chittenden county,16,3.4,1,1,159432,Vermont,0.00010035626473982639
+vt,essex county,1,6.8,1,1,6193,Vermont,0.00016147263038914905
+vt,franklin county,3,4.2,1,1,48407,Vermont,6.197450781911707e-05
+vt,lamoille county,2,5.7,1,1,25111,Vermont,7.964637011668193e-05
+vt,orange county,3,4.1,1,1,28848,Vermont,0.00010399334442595674
+vt,rutland county,3,5.3,1,1,60488,Vermont,4.959661420447031e-05
+vt,washington county,12,4.3,1,1,59218,Vermont,0.00020264108885811747
+vt,windham county,6,4.7,1,1,43885,Vermont,0.00013672097527629032
+vt,windsor county,4,4.2,1,1,55993,Vermont,7.143750111621096e-05
+wa,asotin county,3,6.6,4,9,22129,Washington,0.00013556871074156085
+wa,benton county,7,8.9,4,9,184318,Washington,3.7977842641521716e-05
+wa,chelan county,9,7.3,4,9,73723,Washington,0.00012207859148434004
+wa,clallam county,5,9.6,4,9,72046,Washington,6.940010548816034e-05
+wa,clark county,12,8.5,4,9,441341,Washington,2.7189859994879245e-05
+wa,columbia county,1,8.0,4,9,4002,Washington,0.0002498750624687656
+wa,cowlitz county,9,9.8,4,9,101483,Washington,8.868480435146774e-05
+wa,douglas county,2,8.3,4,9,39387,Washington,5.077817554015284e-05
+wa,franklin county,2,9.4,4,9,86448,Washington,2.3135295206366833e-05
+wa,grant county,1,8.7,4,9,91701,Washington,1.090500648847886e-05
+wa,island county,5,7.4,4,9,78198,Washington,6.39402542264508e-05
+wa,jefferson county,2,9.4,4,9,30004,Washington,6.665777896280495e-05
+wa,king county,66,5.1,4,9,2047223,Washington,3.223879372203224e-05
+wa,kitsap county,18,7.2,4,9,252401,Washington,7.131508987682299e-05
+wa,kittitas county,1,7.8,4,9,41828,Washington,2.390743042937745e-05
+wa,klickitat county,2,9.4,4,9,20871,Washington,9.582674524459776e-05
+wa,lewis county,2,10.5,4,9,74962,Washington,2.6680184626877617e-05
+wa,lincoln county,2,6.8,4,9,10295,Washington,0.0001942690626517727
+wa,mason county,2,10.0,4,9,60474,Washington,3.307206402751596e-05
+wa,pierce county,26,8.3,4,9,821012,Washington,3.1668233838238665e-05
+wa,san juan county,2,6.0,4,9,15909,Washington,0.00012571500408573762
+wa,skagit county,3,8.6,4,9,118255,Washington,2.5368906177328655e-05
+wa,snohomish county,29,5.8,4,9,744112,Washington,3.897262777646376e-05
+wa,spokane county,17,8.2,4,9,478332,Washington,3.554016875308363e-05
+wa,stevens county,1,10.8,4,9,43271,Washington,2.3110166162094704e-05
+wa,thurston county,17,7.6,4,9,261852,Washington,6.492216977529292e-05
+wa,walla walla county,3,7.1,4,9,59361,Washington,5.05382321726386e-05
+wa,whatcom county,20,7.4,4,9,206073,Washington,9.705298607774915e-05
+wa,whitman county,4,6.0,4,9,46792,Washington,8.548469823901521e-05
+wa,yakima county,9,10.0,4,9,246485,Washington,3.651337809603019e-05
+wi,adams county,1,10.9,2,3,20413,Wisconsin,4.8988389751628865e-05
+wi,bayfield county,1,11.0,2,3,15113,Wisconsin,6.616819956328988e-05
+wi,brown county,6,6.2,2,3,254211,Wisconsin,2.360244049234691e-05
+wi,burnett county,2,8.5,2,3,15269,Wisconsin,0.00013098434737048923
+wi,clark county,1,7.1,2,3,34538,Wisconsin,2.8953616306676705e-05
+wi,columbia county,7,6.5,2,3,56581,Wisconsin,0.00012371644191513053
+wi,dane county,16,4.7,2,3,509762,Wisconsin,3.138719637791754e-05
+wi,dunn county,1,6.4,2,3,44046,Wisconsin,2.270353721109749e-05
+wi,eau claire county,2,5.7,2,3,101734,Wisconsin,1.9659111014999903e-05
+wi,florence county,1,8.3,2,3,4383,Wisconsin,0.00022815423226100844
+wi,fond du lac county,2,6.1,2,3,101787,Wisconsin,1.9648874610706672e-05
+wi,grant county,2,5.9,2,3,50994,Wisconsin,3.922030042750128e-05
+wi,green lake county,3,7.9,2,3,18880,Wisconsin,0.00015889830508474575
+wi,iowa county,1,6.5,2,3,23556,Wisconsin,4.2452029206996094e-05
+wi,jackson county,2,7.1,2,3,20559,Wisconsin,9.728099615740066e-05
+wi,jefferson county,5,6.3,2,3,84604,Wisconsin,5.9098860573968134e-05
+wi,juneau county,2,8.1,2,3,26567,Wisconsin,7.528136409831747e-05
+wi,kenosha county,7,7.7,2,3,167300,Wisconsin,4.184100418410042e-05
+wi,kewaunee county,2,6.4,2,3,20370,Wisconsin,9.818360333824252e-05
+wi,la crosse county,5,5.3,2,3,116881,Wisconsin,4.277855254489609e-05
+wi,manitowoc county,3,7.4,2,3,80485,Wisconsin,3.727402621606511e-05
+wi,marathon county,1,6.7,2,3,134884,Wisconsin,7.413777764597729e-06
+wi,marinette county,2,7.9,2,3,41288,Wisconsin,4.8440224762642895e-05
+wi,milwaukee county,12,8.4,2,3,957443,Wisconsin,1.253338318834646e-05
+wi,monroe county,1,6.9,2,3,45123,Wisconsin,2.2161647053609024e-05
+wi,oconto county,1,7.7,2,3,37366,Wisconsin,2.676229727559814e-05
+wi,outagamie county,7,6.1,2,3,180330,Wisconsin,3.881772306327289e-05
+wi,pierce county,3,5.3,2,3,40814,Wisconsin,7.35041897388151e-05
+wi,polk county,2,7.1,2,3,43313,Wisconsin,4.617551312538961e-05
+wi,portage county,3,6.9,2,3,70518,Wisconsin,4.254232961796988e-05
+wi,price county,1,6.9,2,3,13738,Wisconsin,7.279079924297569e-05
+wi,racine county,6,8.3,2,3,194680,Wisconsin,3.081980686254366e-05
+wi,rock county,4,7.7,2,3,160341,Wisconsin,2.494683206416325e-05
+wi,sauk county,1,6.3,2,3,62782,Wisconsin,1.5928132267210348e-05
+wi,shawano county,3,7.5,2,3,41409,Wisconsin,7.244801854669275e-05
+wi,sheboygan county,1,6.1,2,3,114697,Wisconsin,8.718623852411135e-06
+wi,st. croix county,2,5.4,2,3,85643,Wisconsin,2.3352755041275995e-05
+wi,vilas county,1,10.1,2,3,21395,Wisconsin,4.673989249824725e-05
+wi,walworth county,7,6.8,2,3,102793,Wisconsin,6.80980222388684e-05
+wi,washburn county,1,7.4,2,3,15661,Wisconsin,6.385288295766554e-05
+wi,washington county,4,5.7,2,3,132929,Wisconsin,3.0091251720843456e-05
+wi,waukesha county,13,5.5,2,3,394147,Wisconsin,3.298261816022956e-05
+wi,waupaca county,1,7.3,2,3,52066,Wisconsin,1.9206391887220068e-05
+wi,waushara county,1,8.6,2,3,24255,Wisconsin,4.1228612657184085e-05
+wi,winnebago county,7,6.4,2,3,169283,Wisconsin,4.135087398025791e-05
+wi,wood county,1,7.3,2,3,73920,Wisconsin,1.3528138528138528e-05
+wv,berkeley county,2,5.6,3,5,108495,West Virginia,1.843402921793631e-05
+wv,cabell county,5,5.8,3,5,97026,West Virginia,5.153257889637829e-05
+wv,doddridge county,1,5.3,3,5,8549,West Virginia,0.00011697274535033338
+wv,fayette county,3,8.6,3,5,45557,West Virginia,6.585157055995786e-05
+wv,hampshire county,1,7.0,3,5,23483,West Virginia,4.258399693395222e-05
+wv,harrison county,3,5.6,3,5,68907,West Virginia,4.35369410945187e-05
+wv,jackson county,2,6.9,3,5,29193,West Virginia,6.850957421299626e-05
+wv,jefferson county,3,4.8,3,5,55001,West Virginia,5.4544462827948585e-05
+wv,kanawha county,7,5.9,3,5,191539,West Virginia,3.654608199896627e-05
+wv,logan county,1,9.8,3,5,35933,West Virginia,2.7829571702891493e-05
+wv,marion county,2,5.9,3,5,56723,West Virginia,3.5259065987342e-05
+wv,marshall county,1,7.3,3,5,32643,West Virginia,3.063443923658977e-05
+wv,mason county,1,9.4,3,5,27144,West Virginia,3.684055408193339e-05
+wv,mcdowell county,1,12.7,3,5,20958,West Virginia,4.7714476572192006e-05
+wv,mercer county,3,7.7,3,5,61911,West Virginia,4.84566555216359e-05
+wv,mineral county,1,7.8,3,5,27691,West Virginia,3.611281643855404e-05
+wv,mingo county,1,11.2,3,5,26013,West Virginia,3.844231730288702e-05
+wv,ohio county,1,5.7,3,5,43732,West Virginia,2.2866550809475898e-05
+wv,preston county,1,6.5,3,5,33682,West Virginia,2.9689448370049286e-05
+wv,putnam county,2,5.7,3,5,56492,West Virginia,3.5403242937053036e-05
+wv,randolph county,2,7.2,3,5,29522,West Virginia,6.774608766343743e-05
+wv,wayne county,1,6.9,3,5,41840,West Virginia,2.390057361376673e-05
+wv,wood county,3,6.2,3,5,86522,West Virginia,3.467326229167148e-05
+wy,albany county,1,3.8,4,8,37556,Wyoming,2.6626903823623388e-05
+wy,campbell county,2,4.2,4,8,48038,Wyoming,4.163370664890295e-05
+wy,crook county,1,4.4,4,8,7149,Wyoming,0.00013987970345502866
+wy,johnson county,1,5.1,4,8,8641,Wyoming,0.0001157273463719477
+wy,natrona county,3,4.5,4,8,81103,Wyoming,3.69900003699e-05
+wy,park county,3,5.1,4,8,29050,Wyoming,0.00010327022375215147
+wy,sweetwater county,2,4.4,4,8,45157,Wyoming,4.4289921828287974e-05
